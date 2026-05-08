@@ -1,6 +1,6 @@
 {
-  "name": "@mrslbt/tabedata-mcp",
-  "version": "1.0.2",
+  "name": "tabedata-mcp",
+  "version": "1.0.0",
   "mcpName": "io.github.mrslbt/tabedata-mcp",
   "description": "MCP server for Japanese food nutrition data. Bilingual (JP/EN) tools covering konbini items, restaurant chain meals, generic Japanese foods, and personalized macro targets. 460 curated items across 21 chains.",
   "type": "module",

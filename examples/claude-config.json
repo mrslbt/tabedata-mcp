@@ -3,7 +3,7 @@
   "mcpServers": {
     "tabedata": {
       "command": "npx",
-      "args": ["-y", "@mrslbt/tabedata-mcp"]
+      "args": ["-y", "tabedata-mcp"]
     }
   }
 }

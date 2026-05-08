@@ -6,12 +6,12 @@
     "url": "https://github.com/mrslbt/tabedata-mcp",
     "source": "github"
   },
-  "version": "1.0.2",
+  "version": "1.0.0",
   "packages": [
     {
       "registryType": "npm",
-      "identifier": "@mrslbt/tabedata-mcp",
-      "version": "1.0.2",
+      "identifier": "tabedata-mcp",
+      "version": "1.0.0",
       "transport": {
         "type": "stdio"
       }

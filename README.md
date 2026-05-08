@@ -1,6 +1,6 @@
 # tabedata-mcp
 
-[![npm version](https://img.shields.io/npm/v/@mrslbt/tabedata-mcp.svg)](https://www.npmjs.com/package/@mrslbt/tabedata-mcp)
+[![npm version](https://img.shields.io/npm/v/tabedata-mcp.svg)](https://www.npmjs.com/package/tabedata-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Model Context Protocol server for Japanese food nutrition data. Bilingual (JP/EN) tools covering konbini items, restaurant chain meals, generic Japanese foods, and personalized macro targets. Built for AI assistants and Tokyo expats.
@@ -10,10 +10,10 @@ Model Context Protocol server for Japanese food nutrition data. Bilingual (JP/EN
 ## Install
 
 ```bash
-npm install -g @mrslbt/tabedata-mcp
+npm install -g tabedata-mcp
 ```
 
-Or run on demand with `npx -y @mrslbt/tabedata-mcp`.
+Or run on demand with `npx -y tabedata-mcp`.
 
 ## Configuration
 
@@ -36,7 +36,7 @@ Edit `claude_desktop_config.json`:
   "mcpServers": {
     "tabedata": {
       "command": "npx",
-      "args": ["-y", "@mrslbt/tabedata-mcp"]
+      "args": ["-y", "tabedata-mcp"]
     }
   }
 }
@@ -45,7 +45,7 @@ Edit `claude_desktop_config.json`:
 ### Claude Code
 
 ```bash
-claude mcp add tabedata -- npx -y @mrslbt/tabedata-mcp
+claude mcp add tabedata -- npx -y tabedata-mcp
 ```
 
 ### Cursor / Windsurf

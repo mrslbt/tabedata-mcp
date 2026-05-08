@@ -14,7 +14,7 @@ import { getTools } from "./tools/index.js";
 import type { ToolContext } from "./tools/types.js";
 
 const SERVER_NAME = "tabedata-mcp";
-const SERVER_VERSION = "1.0.2";
+const SERVER_VERSION = "1.0.0";
 
 export function buildServer(config: Config): McpServer {
   const ctx: ToolContext = { config };
