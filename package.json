@@ -1,12 +1,12 @@
 {
   "name": "@mrslbt/tabedata-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcpName": "io.github.mrslbt/tabedata-mcp",
-  "description": "MCP server for Japanese food nutrition data — bilingual (JP/EN), gout-aware, konbini + restaurant chain coverage. Built for AI assistants and Tokyo expats.",
+  "description": "MCP server for Japanese food nutrition data. Bilingual (JP/EN) tools covering konbini items, restaurant chain meals, generic Japanese foods, and personalized macro targets. 460 curated items across 21 chains.",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "tabedata-mcp": "./dist/index.js"
+    "tabedata-mcp": "dist/index.js"
   },
   "files": [
     "dist",
@@ -67,7 +67,7 @@
   "homepage": "https://github.com/mrslbt/tabedata-mcp#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrslbt/tabedata-mcp"
+    "url": "git+https://github.com/mrslbt/tabedata-mcp.git"
   },
   "bugs": {
     "url": "https://github.com/mrslbt/tabedata-mcp/issues"
