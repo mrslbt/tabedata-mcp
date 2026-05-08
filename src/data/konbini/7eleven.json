@@ -1,0 +1,1686 @@
+[
+  {
+    "id": "7eleven-salad-chicken-plain",
+    "name_en": "Salad Chicken (Plain)",
+    "name_jp": "サラダチキン プレーン",
+    "name_jp_kana": "サラダチキン プレーン",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 pouch (~110g)",
+      "size_label_jp": "1袋(約110g)",
+      "size_g": 110
+    },
+    "nutrition": {
+      "calories": 121,
+      "protein_g": 24,
+      "fat_g": 1.5,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 700,
+      "salt_g": 1.8
+    },
+    "tags": [
+      "high_protein",
+      "low_carb",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "Per typical 7-Eleven salad chicken plain SKU label.",
+    "notes_jp": "セブン-イレブンのサラダチキン プレーン典型SKUより。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-salad-chicken-herb",
+    "name_en": "Salad Chicken (Herb)",
+    "name_jp": "サラダチキン ハーブ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 pouch (~75g, smaller variant)",
+      "size_label_jp": "1袋(約75g)",
+      "size_g": 75
+    },
+    "nutrition": {
+      "calories": 94,
+      "protein_g": 17.5,
+      "fat_g": 2,
+      "carbs_g": 0,
+      "fiber_g": 0.5,
+      "sodium_mg": 700,
+      "salt_g": 1.8
+    },
+    "tags": [
+      "high_protein",
+      "low_carb"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "Per typical 7-Eleven herb variant. Smaller pouch than plain (75g vs 110g).",
+    "notes_jp": "ハーブ味の小型パウチ(75g)。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-boiled-egg",
+    "name_en": "Boiled Egg (1 piece)",
+    "name_jp": "ゆで卵 1個入",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "boiled-egg",
+    "serving": {
+      "size_label": "1 egg (~50g)",
+      "size_label_jp": "1個(約50g)",
+      "size_g": 50
+    },
+    "nutrition": {
+      "calories": 71,
+      "protein_g": 6.3,
+      "fat_g": 5,
+      "carbs_g": 0.4,
+      "sodium_mg": 200,
+      "cholesterol_mg": 186,
+      "salt_g": 0.5
+    },
+    "tags": [
+      "high_protein",
+      "low_carb"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "7-Eleven boiled egg, salt-flavored variant.",
+    "notes_jp": "セブン-イレブン ゆで卵(塩味)。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-tuna-mayo",
+    "name_en": "Tuna Mayo Onigiri",
+    "name_jp": "ツナマヨネーズおにぎり",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 onigiri (~110g)",
+      "size_label_jp": "1個(約110g)",
+      "size_g": 110
+    },
+    "nutrition": {
+      "calories": 235,
+      "protein_g": 4.8,
+      "fat_g": 7.4,
+      "carbs_g": 36,
+      "sodium_mg": 550,
+      "salt_g": 1.4
+    },
+    "tags": [
+      "high_carb"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "Estimated 88mg.",
+    "notes_jp": "find_alternatives で代替案を検索可能。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-salmon",
+    "name_en": "Grilled Salmon Onigiri",
+    "name_jp": "焼き鮭おにぎり",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 onigiri (~110g)",
+      "size_label_jp": "1個(約110g)",
+      "size_g": 110
+    },
+    "nutrition": {
+      "calories": 175,
+      "protein_g": 5.8,
+      "fat_g": 1.6,
+      "carbs_g": 35,
+      "sodium_mg": 600,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "high_carb"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "With ~25g salmon per onigiri = ~30mg + ~25mg rice = ~55mg.",
+    "notes_jp": "ツナマヨおにぎりの低プリン代替の定番。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-umeboshi",
+    "name_en": "Umeboshi (Pickled Plum) Onigiri",
+    "name_jp": "梅おにぎり",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 onigiri (~100g)",
+      "size_label_jp": "1個(約100g)",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 170,
+      "protein_g": 3,
+      "fat_g": 0.5,
+      "carbs_g": 37,
+      "sodium_mg": 700,
+      "salt_g": 1.8
+    },
+    "tags": [
+      "high_carb",
+      "high_sodium"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_jp": "ナトリウムは高め。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-kombu-hokkaido",
+    "name_en": "Hand-Wrapped Onigiri Hokkaido Kombu",
+    "name_jp": "手巻おにぎり 北海道産昆布",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 176,
+      "protein_g": 3.3,
+      "fat_g": 1.4,
+      "carbs_g": 38.7,
+      "fiber_g": 2.2,
+      "sodium_mg": 393,
+      "salt_g": 1
+    },
+    "allergens": [
+      "wheat"
+    ],
+    "tags": [
+      "onigiri",
+      "kombu",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041956/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-sujiko",
+    "name_en": "Onigiri Sujiko Soy-Marinated",
+    "name_jp": "手巻おにぎり すじこ醤油漬け",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 174,
+      "protein_g": 4.5,
+      "fat_g": 1.6,
+      "carbs_g": 36.4,
+      "fiber_g": 1.9,
+      "sodium_mg": 472,
+      "salt_g": 1.2
+    },
+    "tags": [
+      "onigiri",
+      "salmon_roe"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/042154/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-mentaiko",
+    "name_en": "Onigiri Spicy Mentaiko",
+    "name_jp": "手巻おにぎり 具たっぷり辛子明太子",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 173,
+      "protein_g": 5.1,
+      "fat_g": 0.8,
+      "carbs_g": 37.2,
+      "fiber_g": 1.9,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "allergens": [
+      "wheat"
+    ],
+    "tags": [
+      "onigiri",
+      "mentaiko",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041910/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-kishu-ume",
+    "name_en": "Onigiri Kishu Nanko Ume",
+    "name_jp": "手巻おにぎり 熟成仕立て紀州南高梅",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 166,
+      "protein_g": 2.9,
+      "fat_g": 0.8,
+      "carbs_g": 37.8,
+      "fiber_g": 2,
+      "sodium_mg": 629,
+      "salt_g": 1.6
+    },
+    "tags": [
+      "onigiri",
+      "umeboshi",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041917/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-yamawasabi",
+    "name_en": "Onigiri Yamawasabi Dashi Soy",
+    "name_jp": "味付のりおにぎり 山わさび（だし醤油仕立て）",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 167,
+      "protein_g": 3.2,
+      "fat_g": 0.7,
+      "carbs_g": 38,
+      "fiber_g": 2.1,
+      "sodium_mg": 433,
+      "salt_g": 1.1
+    },
+    "allergens": [
+      "wheat"
+    ],
+    "tags": [
+      "onigiri",
+      "wasabi",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041097/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-shake-charcoal",
+    "name_en": "Onigiri Charcoal-Grilled Red Salmon",
+    "name_jp": "味付海苔 炭火焼紅しゃけ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 180,
+      "protein_g": 4.6,
+      "fat_g": 2.5,
+      "carbs_g": 35.8,
+      "fiber_g": 1.9,
+      "sodium_mg": 334,
+      "salt_g": 0.85
+    },
+    "tags": [
+      "onigiri",
+      "salmon"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041927/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-tunamayo-noritype",
+    "name_en": "Onigiri Tuna Mayo (Nori Type)",
+    "name_jp": "味付海苔 ツナマヨネーズ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 250,
+      "protein_g": 4.9,
+      "fat_g": 9.8,
+      "carbs_g": 36.4,
+      "fiber_g": 1.8,
+      "sodium_mg": 393,
+      "salt_g": 1
+    },
+    "tags": [
+      "onigiri",
+      "tuna",
+      "mayo"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041928/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-ebi-mayo",
+    "name_en": "Onigiri Shrimp Mayo",
+    "name_jp": "味付のりおにぎり 海老マヨネーズ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 214,
+      "protein_g": 4.3,
+      "fat_g": 5.9,
+      "carbs_g": 36.7,
+      "fiber_g": 1.8,
+      "sodium_mg": 393,
+      "salt_g": 1
+    },
+    "tags": [
+      "onigiri",
+      "shrimp",
+      "mayo"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041842/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-tori-gomoku",
+    "name_en": "Wrapped Onigiri Chicken Gomoku",
+    "name_jp": "直巻おむすび とり五目",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 180,
+      "protein_g": 4.6,
+      "fat_g": 1.4,
+      "carbs_g": 38.1,
+      "fiber_g": 1.9,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "allergens": [
+      "egg",
+      "wheat"
+    ],
+    "tags": [
+      "onigiri",
+      "chicken",
+      "gomoku"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041712/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-tunamayo-wafu",
+    "name_en": "Onigiri Japanese-Style Tuna Mayo",
+    "name_jp": "直巻おむすび 和風ツナマヨネーズ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 232,
+      "protein_g": 5.3,
+      "fat_g": 6.8,
+      "carbs_g": 38.1,
+      "fiber_g": 1.4,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "onigiri",
+      "tuna",
+      "mayo"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041728/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-tunamayo-large",
+    "name_en": "Big Omusubi Tuna Mayo",
+    "name_jp": "大きなおむすび和風 シーチキンマヨネーズ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 large",
+      "size_label_jp": "1個（大）"
+    },
+    "nutrition": {
+      "calories": 343,
+      "protein_g": 7.1,
+      "fat_g": 11.1,
+      "carbs_g": 54.8,
+      "fiber_g": 2.4,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "allergens": [
+      "egg",
+      "wheat"
+    ],
+    "tags": [
+      "onigiri",
+      "tuna",
+      "mayo",
+      "large"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041521/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-sujiko-large",
+    "name_en": "Big Omusubi Sujiko Soy-Koji",
+    "name_jp": "おおきなおむすび すじこ（醤油麹仕立て）",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 large",
+      "size_label_jp": "1個（大）"
+    },
+    "nutrition": {
+      "calories": 334,
+      "protein_g": 7.2,
+      "fat_g": 2,
+      "carbs_g": 72,
+      "fiber_g": 0.6,
+      "sodium_mg": 826,
+      "salt_g": 2.1
+    },
+    "tags": [
+      "onigiri",
+      "salmon_roe",
+      "large"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041012/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-tunamayo-wafu-large",
+    "name_en": "Big Omusubi Japanese Tuna Mayo",
+    "name_jp": "おおきなおむすび 和風ツナマヨネーズ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 large",
+      "size_label_jp": "1個（大）"
+    },
+    "nutrition": {
+      "calories": 367,
+      "protein_g": 6.9,
+      "fat_g": 8.7,
+      "carbs_g": 66.6,
+      "fiber_g": 2.9,
+      "sodium_mg": 669,
+      "salt_g": 1.7
+    },
+    "tags": [
+      "onigiri",
+      "tuna",
+      "mayo",
+      "large"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041265/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-torimeshi",
+    "name_en": "Chicken Rice Omusubi",
+    "name_jp": "鶏の旨み引き立つ 鶏めしおむすび",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 182,
+      "protein_g": 7.9,
+      "fat_g": 2.1,
+      "carbs_g": 33.6,
+      "fiber_g": 1.3,
+      "sodium_mg": 551,
+      "salt_g": 1.4
+    },
+    "allergens": [
+      "egg",
+      "wheat"
+    ],
+    "tags": [
+      "onigiri",
+      "chicken"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041536/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-tsukemono-cucumber",
+    "name_en": "Pickle Omusubi Sendai Miso Cucumber",
+    "name_jp": "漬物おむすび 仙台味噌漬胡瓜",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 164,
+      "protein_g": 3,
+      "fat_g": 1.1,
+      "carbs_g": 36.2,
+      "fiber_g": 1.3,
+      "sodium_mg": 393,
+      "salt_g": 1
+    },
+    "tags": [
+      "onigiri",
+      "pickle",
+      "miso",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/042620/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-juicy-okinawa",
+    "name_en": "Juicy Omusubi (Okinawan Pork Rice)",
+    "name_jp": "じゅーしーおむすび",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 175,
+      "protein_g": 3.6,
+      "fat_g": 1.8,
+      "carbs_g": 37,
+      "fiber_g": 2,
+      "sodium_mg": 669,
+      "salt_g": 1.7
+    },
+    "tags": [
+      "onigiri",
+      "pork",
+      "okinawan"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041891/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-gomoku-okowa",
+    "name_en": "Five-Ingredient Okowa Omusubi",
+    "name_jp": "五目おこわおむすび",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 191,
+      "protein_g": 5.7,
+      "fat_g": 2.4,
+      "carbs_g": 37.2,
+      "fiber_g": 0.9,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "onigiri",
+      "okowa",
+      "gomoku"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/042790/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-torigobo",
+    "name_en": "Chicken Burdock Rice Omusubi",
+    "name_jp": "鶏ごぼう味めしおむすび 青森県産ごぼう使用",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 227,
+      "protein_g": 6.3,
+      "fat_g": 3,
+      "carbs_g": 44.8,
+      "fiber_g": 2.2,
+      "sodium_mg": 787,
+      "salt_g": 2
+    },
+    "allergens": [
+      "wheat"
+    ],
+    "tags": [
+      "onigiri",
+      "chicken",
+      "gobo"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/042789/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-onigiri-yaki-charcoal",
+    "name_en": "Charcoal-Grilled Yaki Onigiri",
+    "name_jp": "炭火で焼いた焼おにぎり（ひしほ醤油使用）",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 185,
+      "protein_g": 3.8,
+      "fat_g": 0.9,
+      "carbs_g": 41.2,
+      "fiber_g": 1.6,
+      "sodium_mg": 905,
+      "salt_g": 2.3
+    },
+    "tags": [
+      "onigiri",
+      "yaki",
+      "grilled"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/042917/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-salad-chicken-smoke",
+    "name_en": "Salad Chicken Smoke",
+    "name_jp": "７プレミアム サラダチキン スモーク",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋"
+    },
+    "nutrition": {
+      "calories": 117,
+      "protein_g": 26,
+      "fat_g": 1.3,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 747,
+      "salt_g": 1.9
+    },
+    "tags": [
+      "salad-chicken",
+      "high_protein",
+      "low_carb",
+      "smoked"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/250593/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-salad-chicken-bar-smoke-pepper",
+    "name_en": "Salad Chicken Bar Smoke Pepper",
+    "name_jp": "７Ｐサラダチキンバー スモークペッパー",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 bar",
+      "size_label_jp": "1本"
+    },
+    "nutrition": {
+      "calories": 63,
+      "protein_g": 13.6,
+      "fat_g": 0.9,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 393,
+      "salt_g": 1
+    },
+    "tags": [
+      "salad-chicken",
+      "high_protein",
+      "low_carb"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/250257/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-bento-karaage",
+    "name_en": "Young Chicken Karaage Bento",
+    "name_jp": "若鶏の唐揚げ弁当",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 box",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 714,
+      "protein_g": 34.5,
+      "fat_g": 24.5,
+      "carbs_g": 91.2,
+      "fiber_g": 4.5,
+      "sodium_mg": 1180,
+      "salt_g": 3
+    },
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat"
+    ],
+    "tags": [
+      "bento",
+      "karaage",
+      "chicken"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/042565/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-bento-oyakodon-fuwatoro",
+    "name_en": "Fluffy Rich Oyakodon",
+    "name_jp": "ふわっとろ濃厚親子丼",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 bowl",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 633,
+      "protein_g": 24.5,
+      "fat_g": 19.4,
+      "carbs_g": 92,
+      "fiber_g": 4,
+      "sodium_mg": 866,
+      "salt_g": 2.2
+    },
+    "allergens": [
+      "egg",
+      "wheat"
+    ],
+    "tags": [
+      "bento",
+      "oyakodon",
+      "chicken",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041582/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-bento-chukadon-8items",
+    "name_en": "8-Ingredient Chuka-don",
+    "name_jp": "８品目の中華丼",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 bowl",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 498,
+      "protein_g": 14.3,
+      "fat_g": 9.9,
+      "carbs_g": 90.4,
+      "fiber_g": 4.8,
+      "sodium_mg": 1416,
+      "salt_g": 3.6
+    },
+    "tags": [
+      "bento",
+      "chuka_don"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/041813/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-sandwich-egg-ham-lettuce",
+    "name_en": "Egg & Ham Lettuce Sandwich",
+    "name_jp": "たまご＆ハムレタスサンド",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1パック"
+    },
+    "nutrition": {
+      "calories": 307,
+      "protein_g": 12.5,
+      "fat_g": 17.8,
+      "carbs_g": 24.8,
+      "fiber_g": 1.3,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat"
+    ],
+    "tags": [
+      "sandwich",
+      "ham",
+      "egg",
+      "lettuce"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/053579/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-pasta-napolitan",
+    "name_en": "Napolitan",
+    "name_jp": "７プレミアム ナポリタン",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋"
+    },
+    "nutrition": {
+      "calories": 447,
+      "protein_g": 14.9,
+      "fat_g": 14.6,
+      "carbs_g": 66.2,
+      "fiber_g": 4.6,
+      "sodium_mg": 1495,
+      "salt_g": 3.8
+    },
+    "tags": [
+      "pasta",
+      "napolitan"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/410240/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-pasta-carbonara",
+    "name_en": "Carbonara",
+    "name_jp": "カルボナーラ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 644,
+      "protein_g": 31.2,
+      "fat_g": 23.8,
+      "carbs_g": 78.3,
+      "fiber_g": 4.3,
+      "sodium_mg": 2164,
+      "salt_g": 5.5
+    },
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat"
+    ],
+    "tags": [
+      "pasta",
+      "carbonara"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/090639/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-pasta-peperoncino-sausage",
+    "name_en": "Sausage Peperoncino",
+    "name_jp": "ソーセージのペペロンチーノ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 733,
+      "protein_g": 30.2,
+      "fat_g": 29.7,
+      "carbs_g": 89.2,
+      "fiber_g": 5.9,
+      "sodium_mg": 2872,
+      "salt_g": 7.3
+    },
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat"
+    ],
+    "tags": [
+      "pasta",
+      "peperoncino",
+      "sausage"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/090204/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-sweets-double-shu",
+    "name_en": "Whip Double Cream Puff",
+    "name_jp": "ほおばるしあわせ たっぷりホイップＷシュー",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "dessert",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 270,
+      "protein_g": 4.3,
+      "fat_g": 18.8,
+      "carbs_g": 20.9,
+      "fiber_g": 0.2,
+      "sodium_mg": 71,
+      "salt_g": 0.18
+    },
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat"
+    ],
+    "tags": [
+      "dessert",
+      "cream_puff"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/114842/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-yogurt-namanyu-100",
+    "name_en": "100% Raw Milk Yogurt",
+    "name_jp": "７プレミアム 生乳１００％ヨーグルト",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "yogurt",
+    "serving": {
+      "size_label": "per serving",
+      "size_label_jp": "1食分"
+    },
+    "nutrition": {
+      "calories": 67,
+      "protein_g": 3.3,
+      "fat_g": 3.8,
+      "carbs_g": 4.8,
+      "fiber_g": 0,
+      "sodium_mg": 39,
+      "salt_g": 0.1
+    },
+    "allergens": [
+      "milk"
+    ],
+    "tags": [
+      "yogurt",
+      "dairy"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/113258/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-oden-daikon",
+    "name_en": "Oden Flavored Daikon",
+    "name_jp": "おでん 味しみ大根",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 8,
+      "protein_g": 0.3,
+      "fat_g": 0.1,
+      "carbs_g": 2,
+      "fiber_g": 0.7,
+      "sodium_mg": 79,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "oden",
+      "daikon",
+      "low_calorie"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/120037/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-oden-tamago",
+    "name_en": "Oden Flavored Egg",
+    "name_jp": "おでん 味しみたまご",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 77,
+      "protein_g": 6.7,
+      "fat_g": 4.9,
+      "carbs_g": 1.4,
+      "fiber_g": 0.1,
+      "sodium_mg": 236,
+      "salt_g": 0.6
+    },
+    "allergens": [
+      "egg"
+    ],
+    "tags": [
+      "oden",
+      "egg",
+      "high_protein",
+      "low_carb"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/120069/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-oden-konnyaku",
+    "name_en": "Oden Flavored Konnyaku",
+    "name_jp": "おでん 味しみこんにゃく",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 5,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "carbs_g": 1.8,
+      "fiber_g": 1.4,
+      "sodium_mg": 315,
+      "salt_g": 0.8
+    },
+    "tags": [
+      "oden",
+      "konnyaku",
+      "low_calorie",
+      "fiber"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/120070/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-oden-chikuwabu",
+    "name_en": "Oden Mochiri Chikuwabu",
+    "name_jp": "おでん もっちりちくわぶ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 62,
+      "protein_g": 2.3,
+      "fat_g": 0.2,
+      "carbs_g": 13,
+      "fiber_g": 0.8,
+      "sodium_mg": 118,
+      "salt_g": 0.3
+    },
+    "allergens": [
+      "wheat"
+    ],
+    "tags": [
+      "oden",
+      "chikuwabu"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/120023/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-oden-shiro-konnyaku",
+    "name_en": "Oden White Konnyaku",
+    "name_jp": "おでん 味しみ白こんにゃく",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 3,
+      "protein_g": 0.1,
+      "fat_g": 0.3,
+      "carbs_g": 1.6,
+      "fiber_g": 1.3,
+      "sodium_mg": 433,
+      "salt_g": 1.1
+    },
+    "tags": [
+      "oden",
+      "konnyaku",
+      "low_calorie",
+      "fiber"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/120034/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-oden-atsuage",
+    "name_en": "Oden Silken Atsuage",
+    "name_jp": "おでん 味しみ絹厚揚げ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 55,
+      "protein_g": 4,
+      "fat_g": 3.7,
+      "carbs_g": 1.8,
+      "fiber_g": 0.4,
+      "sodium_mg": 4,
+      "salt_g": 0.01
+    },
+    "tags": [
+      "oden",
+      "tofu"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/120078/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-yakitori-momokawa-2-3",
+    "name_en": "Charcoal Yakitori Thigh 3 Skin 2",
+    "name_jp": "炭火焼き鳥 もも３本・皮２本入り",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "5 skewers",
+      "size_label_jp": "5本"
+    },
+    "nutrition": {
+      "calories": 391,
+      "protein_g": 31,
+      "fat_g": 27.3,
+      "carbs_g": 5.3,
+      "fiber_g": 0.2,
+      "sodium_mg": 984,
+      "salt_g": 2.5
+    },
+    "tags": [
+      "yakitori",
+      "chicken",
+      "high_protein"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/100032/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-yakitori-momoshio",
+    "name_en": "Yakitori Thigh Salt",
+    "name_jp": "７プレミアム 焼鳥もも塩",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋"
+    },
+    "nutrition": {
+      "calories": 140,
+      "protein_g": 20.1,
+      "fat_g": 5.8,
+      "carbs_g": 2,
+      "fiber_g": 0.2,
+      "sodium_mg": 669,
+      "salt_g": 1.7
+    },
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat"
+    ],
+    "tags": [
+      "yakitori",
+      "chicken",
+      "high_protein"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/410540/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-yakitori-momotare",
+    "name_en": "Yakitori Thigh Tare",
+    "name_jp": "７プレミアム 焼鳥ももたれ",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋"
+    },
+    "nutrition": {
+      "calories": 154,
+      "protein_g": 19.8,
+      "fat_g": 5.7,
+      "carbs_g": 6.1,
+      "fiber_g": 0.1,
+      "sodium_mg": 748,
+      "salt_g": 1.9
+    },
+    "tags": [
+      "yakitori",
+      "chicken",
+      "high_protein"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/410059/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "7eleven-yakitori-kawa-momo",
+    "name_en": "Charcoal Yakitori Skin 3 Thigh 2",
+    "name_jp": "炭火焼き鳥 皮３本・もも２本入り",
+    "brand": "7-Eleven",
+    "category": "konbini",
+    "chain": "7-eleven",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "5 skewers",
+      "size_label_jp": "5本"
+    },
+    "nutrition": {
+      "calories": 357,
+      "protein_g": 26.7,
+      "fat_g": 24.4,
+      "carbs_g": 7.7,
+      "fiber_g": 0.1,
+      "sodium_mg": 1141,
+      "salt_g": 2.9
+    },
+    "tags": [
+      "yakitori",
+      "chicken",
+      "high_protein"
+    ],
+    "source": {
+      "url": "https://www.sej.co.jp/products/a/item/104210/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  }
+]

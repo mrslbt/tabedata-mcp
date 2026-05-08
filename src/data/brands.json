@@ -1,0 +1,831 @@
+[
+  {
+    "id": "oikos-plain-113g",
+    "name_en": "Oikos Plain Greek Yogurt",
+    "name_jp": "オイコス プレーン",
+    "name_jp_kana": "オイコス プレーン",
+    "brand": "Danone Oikos",
+    "category": "supplement",
+    "subcategory": "yogurt",
+    "serving": {
+      "size_label": "1 pouch (113g)",
+      "size_label_jp": "1個(113g)",
+      "size_g": 113
+    },
+    "nutrition": {
+      "calories": 92,
+      "protein_g": 12,
+      "fat_g": 0,
+      "carbs_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "salt_g": 0.13
+    },
+    "tags": [
+      "high_protein",
+      "low_fat",
+      "no_added_sugar"
+    ],
+    "source": {
+      "url": "https://www.danone.co.jp/oikos/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Per Danone Japan published nutrition.",
+    "notes_jp": "ダノンジャパン公表値。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "oikos-strawberry-113g",
+    "name_en": "Oikos Strawberry Greek Yogurt",
+    "name_jp": "オイコス ストロベリー",
+    "brand": "Danone Oikos",
+    "category": "supplement",
+    "subcategory": "yogurt",
+    "serving": {
+      "size_label": "1 pouch (113g)",
+      "size_label_jp": "1個(113g)",
+      "size_g": 113
+    },
+    "nutrition": {
+      "calories": 110,
+      "protein_g": 12,
+      "fat_g": 0,
+      "carbs_g": 16,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "salt_g": 0.13
+    },
+    "tags": [
+      "high_protein",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://www.danone.co.jp/oikos/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Per Danone Japan published nutrition. Same protein as plain; +5g carbs from strawberry sauce.",
+    "notes_jp": "ダノンジャパン公表値。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "savas-milk-protein-vanilla-430ml",
+    "name_en": "SAVAS Milk Protein Vanilla 430ml",
+    "name_jp": "ザバス ミルクプロテイン バニラ 430ml",
+    "name_jp_kana": "ザバス ミルクプロテイン",
+    "brand": "Meiji SAVAS",
+    "category": "drink",
+    "subcategory": "protein-drink",
+    "serving": {
+      "size_label": "1 carton (430ml)",
+      "size_label_jp": "1本(430ml)",
+      "size_ml": 430
+    },
+    "nutrition": {
+      "calories": 102,
+      "protein_g": 25,
+      "fat_g": 0,
+      "carbs_g": 0.7,
+      "sodium_mg": 110,
+      "salt_g": 0.27
+    },
+    "tags": [
+      "high_protein",
+      "post_workout",
+      "low_carb"
+    ],
+    "source": {
+      "url": "https://www.meiji.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Per Meiji SAVAS published label. Standard post-workout option; 25g protein at 102 kcal is hard to beat.",
+    "notes_jp": "明治ザバス公表値。1本25gのプロテインで100kcal前後。トレーニング後の定番。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "meiji-r1-yogurt-drink-112ml",
+    "name_en": "Meiji R-1 Yogurt Drink",
+    "name_jp": "明治プロビオヨーグルト R-1 ドリンクタイプ",
+    "name_jp_kana": "メイジアールワン",
+    "brand": "Meiji",
+    "category": "drink",
+    "subcategory": "yogurt",
+    "serving": {
+      "size_label": "1 bottle (112ml)",
+      "size_label_jp": "1本(112ml)",
+      "size_ml": 112
+    },
+    "nutrition": {
+      "calories": 76,
+      "protein_g": 3.4,
+      "fat_g": 0.5,
+      "carbs_g": 14,
+      "sodium_mg": 47,
+      "salt_g": 0.12
+    },
+    "tags": [
+      "fermented"
+    ],
+    "source": {
+      "url": "https://www.meiji.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Per Meiji published nutrition.",
+    "notes_jp": "明治公表値。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "whey-protein-1-scoop-generic",
+    "name_en": "Whey Protein, 1 scoop (generic)",
+    "name_jp": "ホエイプロテイン 1スクープ (汎用)",
+    "category": "supplement",
+    "subcategory": "protein-drink",
+    "serving": {
+      "size_label": "1 scoop (~30g powder)",
+      "size_label_jp": "1スクープ(約30g)",
+      "size_g": 30
+    },
+    "nutrition": {
+      "calories": 120,
+      "protein_g": 24,
+      "fat_g": 1.5,
+      "carbs_g": 3,
+      "sodium_mg": 60,
+      "salt_g": 0.15
+    },
+    "tags": [
+      "high_protein",
+      "post_workout"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "Generic placeholder for unbranded whey. Real macros vary by brand (Optimum Nutrition, MyProtein, Beleg, etc.). Use a brand-specific entry where possible.",
+    "notes_jp": "ブランド未指定のホエイプロテイン汎用値。実際の値はブランドごとに異なります。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "creatine-monohydrate-5g",
+    "name_en": "Creatine Monohydrate, 5g",
+    "name_jp": "クレアチンモノハイドレート 5g",
+    "category": "supplement",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 dose (5g)",
+      "size_label_jp": "1回分(5g)",
+      "size_g": 5
+    },
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "carbs_g": 0,
+      "sodium_mg": 0
+    },
+    "tags": [
+      "zero_calorie"
+    ],
+    "source": {
+      "url": "https://examine.com/supplements/creatine/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Standard 5g daily maintenance dose.",
+    "notes_jp": "1日5gの維持量が標準。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "meiji-bulgaria-yogurt-plain-100g",
+    "name_en": "Meiji Bulgaria Yogurt Plain",
+    "name_jp": "明治ブルガリアヨーグルト LB81 プレーン",
+    "name_jp_kana": "メイジブルガリアヨーグルト プレーン",
+    "brand": "Meiji",
+    "category": "supplement",
+    "subcategory": "yogurt",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 62,
+      "protein_g": 3.4,
+      "fat_g": 3,
+      "carbs_g": 5.3,
+      "sodium_mg": 49,
+      "salt_g": 0.12
+    },
+    "tags": [
+      "yogurt",
+      "probiotic",
+      "calcium"
+    ],
+    "source": {
+      "url": "https://www.meiji.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "meiji-lg21-yogurt-112g",
+    "name_en": "Meiji Probio Yogurt LG21 Plain",
+    "name_jp": "明治プロビオヨーグルト LG21 プレーン",
+    "name_jp_kana": "メイジプロビオヨーグルト エルジーニジュウイチ",
+    "brand": "Meiji",
+    "category": "supplement",
+    "subcategory": "yogurt",
+    "serving": {
+      "size_label": "1 cup (112g)",
+      "size_label_jp": "1個(112g)",
+      "size_g": 112
+    },
+    "nutrition": {
+      "calories": 80,
+      "protein_g": 3.9,
+      "fat_g": 3.4,
+      "carbs_g": 8.6,
+      "sodium_mg": 47,
+      "salt_g": 0.12
+    },
+    "tags": [
+      "yogurt",
+      "probiotic"
+    ],
+    "source": {
+      "url": "https://www.meiji.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "meiji-tanpact-milk-200ml",
+    "name_en": "Meiji TANPACT Milk",
+    "name_jp": "明治 タンパクト ミルク",
+    "name_jp_kana": "メイジ タンパクト ミルク",
+    "brand": "Meiji",
+    "category": "drink",
+    "subcategory": "protein-drink",
+    "serving": {
+      "size_label": "1 carton (200ml)",
+      "size_label_jp": "1本(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 102,
+      "protein_g": 10,
+      "fat_g": 2.8,
+      "carbs_g": 9.4,
+      "sodium_mg": 110,
+      "salt_g": 0.28
+    },
+    "tags": [
+      "high_protein",
+      "dairy"
+    ],
+    "source": {
+      "url": "https://www.meiji.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "savas-cocoa-200ml",
+    "name_en": "SAVAS Milk Protein Cocoa 200ml",
+    "name_jp": "ザバス ミルクプロテイン ココア 200ml",
+    "name_jp_kana": "ザバス ミルクプロテイン ココア",
+    "brand": "Meiji SAVAS",
+    "category": "drink",
+    "subcategory": "protein-drink",
+    "serving": {
+      "size_label": "1 carton (200ml)",
+      "size_label_jp": "1本(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 102,
+      "protein_g": 15,
+      "fat_g": 0,
+      "carbs_g": 10.7,
+      "sodium_mg": 130,
+      "salt_g": 0.33
+    },
+    "tags": [
+      "high_protein",
+      "fat_free"
+    ],
+    "source": {
+      "url": "https://www.meiji.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "savas-strawberry-200ml",
+    "name_en": "SAVAS Milk Protein Strawberry 200ml",
+    "name_jp": "ザバス ミルクプロテイン ストロベリー 200ml",
+    "name_jp_kana": "ザバス ミルクプロテイン ストロベリー",
+    "brand": "Meiji SAVAS",
+    "category": "drink",
+    "subcategory": "protein-drink",
+    "serving": {
+      "size_label": "1 carton (200ml)",
+      "size_label_jp": "1本(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 102,
+      "protein_g": 15,
+      "fat_g": 0,
+      "carbs_g": 10.7,
+      "sodium_mg": 130,
+      "salt_g": 0.33
+    },
+    "tags": [
+      "high_protein",
+      "fat_free"
+    ],
+    "source": {
+      "url": "https://www.meiji.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "glico-pocky-chocolate-1pack-35g",
+    "name_en": "Glico Pocky Chocolate",
+    "name_jp": "グリコ ポッキー チョコレート",
+    "name_jp_kana": "グリコ ポッキー チョコレート",
+    "brand": "Ezaki Glico",
+    "category": "generic",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 pack (35g)",
+      "size_label_jp": "1袋(35g)",
+      "size_g": 35
+    },
+    "nutrition": {
+      "calories": 179,
+      "protein_g": 2.7,
+      "fat_g": 8.6,
+      "carbs_g": 22.7,
+      "sodium_mg": 100,
+      "salt_g": 0.25
+    },
+    "tags": [
+      "snack",
+      "chocolate"
+    ],
+    "source": {
+      "url": "https://cp.glico.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "glico-pretz-light-1pack-25g",
+    "name_en": "Glico Pretz Light Salt",
+    "name_jp": "グリコ プリッツ <旨さ和み塩>",
+    "name_jp_kana": "グリコ プリッツ シオ",
+    "brand": "Ezaki Glico",
+    "category": "generic",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 pack (25g)",
+      "size_label_jp": "1袋(25g)",
+      "size_g": 25
+    },
+    "nutrition": {
+      "calories": 113,
+      "protein_g": 2.4,
+      "fat_g": 4.4,
+      "carbs_g": 16,
+      "sodium_mg": 217,
+      "salt_g": 0.55
+    },
+    "tags": [
+      "snack"
+    ],
+    "source": {
+      "url": "https://cp.glico.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "glico-cafeole-mild-200ml",
+    "name_en": "Glico Mild Cafe au Lait 200ml",
+    "name_jp": "マイルドカフェオーレ",
+    "name_jp_kana": "マイルドカフェオーレ",
+    "brand": "Ezaki Glico",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 carton (200ml)",
+      "size_label_jp": "1本(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 90,
+      "protein_g": 2.6,
+      "fat_g": 1.6,
+      "carbs_g": 16,
+      "sodium_mg": 80,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "coffee",
+      "milk"
+    ],
+    "source": {
+      "url": "https://cp.glico.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "calbee-jagariko-salad-58g",
+    "name_en": "Calbee Jagariko Salad",
+    "name_jp": "カルビー じゃがりこ サラダ",
+    "name_jp_kana": "カルビー ジャガリコ サラダ",
+    "brand": "Calbee",
+    "category": "generic",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 cup (58g)",
+      "size_label_jp": "1カップ(58g)",
+      "size_g": 58
+    },
+    "nutrition": {
+      "calories": 285,
+      "protein_g": 4.3,
+      "fat_g": 14.4,
+      "carbs_g": 35.6,
+      "sodium_mg": 327,
+      "salt_g": 0.83
+    },
+    "tags": [
+      "snack",
+      "potato"
+    ],
+    "source": {
+      "url": "https://www.calbee.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "calbee-kappa-ebisen-1bag-77g",
+    "name_en": "Calbee Kappa Ebisen",
+    "name_jp": "カルビー かっぱえびせん",
+    "name_jp_kana": "カルビー カッパエビセン",
+    "brand": "Calbee",
+    "category": "generic",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 bag (77g)",
+      "size_label_jp": "1袋(77g)",
+      "size_g": 77
+    },
+    "nutrition": {
+      "calories": 363,
+      "protein_g": 5.5,
+      "fat_g": 16.4,
+      "carbs_g": 49,
+      "sodium_mg": 624,
+      "salt_g": 1.59
+    },
+    "tags": [
+      "snack",
+      "shrimp"
+    ],
+    "source": {
+      "url": "https://www.calbee.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "calbee-potato-chips-usushio-60g",
+    "name_en": "Calbee Potato Chips Lightly Salted",
+    "name_jp": "カルビー ポテトチップス うすしお味",
+    "name_jp_kana": "カルビー ポテトチップス ウスシオ",
+    "brand": "Calbee",
+    "category": "generic",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 bag (60g)",
+      "size_label_jp": "1袋(60g)",
+      "size_g": 60
+    },
+    "nutrition": {
+      "calories": 336,
+      "protein_g": 3.1,
+      "fat_g": 21.6,
+      "carbs_g": 32.4,
+      "sodium_mg": 295,
+      "salt_g": 0.75
+    },
+    "tags": [
+      "snack",
+      "potato"
+    ],
+    "source": {
+      "url": "https://www.calbee.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "itoen-oi-ocha-525ml",
+    "name_en": "Ito En Oi Ocha Green Tea 525ml",
+    "name_jp": "伊藤園 おーいお茶 緑茶 525ml",
+    "name_jp_kana": "イトウエン オーイオチャ リョクチャ",
+    "brand": "Ito En",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 bottle (525ml)",
+      "size_label_jp": "1本(525ml)",
+      "size_ml": 525
+    },
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "carbs_g": 0,
+      "sodium_mg": 53,
+      "salt_g": 0.13
+    },
+    "tags": [
+      "tea",
+      "zero_calorie",
+      "caffeine"
+    ],
+    "source": {
+      "url": "https://www.itoen.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "asahi-juurokucha-660ml",
+    "name_en": "Asahi 16-Blend Tea 660ml",
+    "name_jp": "アサヒ 十六茶 660ml",
+    "name_jp_kana": "アサヒ ジュウロクチャ",
+    "brand": "Asahi",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 bottle (660ml)",
+      "size_label_jp": "1本(660ml)",
+      "size_ml": 660
+    },
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "carbs_g": 0,
+      "sodium_mg": 66,
+      "salt_g": 0.17
+    },
+    "tags": [
+      "tea",
+      "zero_calorie",
+      "caffeine_free"
+    ],
+    "source": {
+      "url": "https://www.asahiinryo.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "kirin-gogo-no-koucha-straight-500ml",
+    "name_en": "Kirin Gogo no Koucha Straight Tea 500ml",
+    "name_jp": "キリン 午後の紅茶 ストレートティー 500ml",
+    "name_jp_kana": "キリン ゴゴノコウチャ ストレートティー",
+    "brand": "Kirin",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 bottle (500ml)",
+      "size_label_jp": "1本(500ml)",
+      "size_ml": 500
+    },
+    "nutrition": {
+      "calories": 75,
+      "protein_g": 0,
+      "fat_g": 0,
+      "carbs_g": 19,
+      "sodium_mg": 50,
+      "salt_g": 0.13,
+      "sugar_g": 19
+    },
+    "tags": [
+      "tea",
+      "sweetened"
+    ],
+    "source": {
+      "url": "https://www.kirin.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "suntory-oolong-tea-525ml",
+    "name_en": "Suntory Oolong Tea 525ml",
+    "name_jp": "サントリー 烏龍茶 525ml",
+    "name_jp_kana": "サントリー ウーロンチャ",
+    "brand": "Suntory",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 bottle (525ml)",
+      "size_label_jp": "1本(525ml)",
+      "size_ml": 525
+    },
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "carbs_g": 0,
+      "sodium_mg": 105,
+      "salt_g": 0.27
+    },
+    "tags": [
+      "tea",
+      "zero_calorie",
+      "caffeine"
+    ],
+    "source": {
+      "url": "https://www.suntory.com/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "fujipan-honjikomi-shokupan-6slice-1pc",
+    "name_en": "Fuji Pan Hon-Jikomi Bread (1 slice)",
+    "name_jp": "フジパン 本仕込食パン 6枚切り 1枚",
+    "name_jp_kana": "フジパン ホンジコミ ショクパン",
+    "brand": "Fuji Pan",
+    "category": "generic",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 slice (60g)",
+      "size_label_jp": "1枚(60g)",
+      "size_g": 60
+    },
+    "nutrition": {
+      "calories": 158,
+      "protein_g": 5.4,
+      "fat_g": 2.6,
+      "carbs_g": 28.8,
+      "sodium_mg": 300,
+      "salt_g": 0.76
+    },
+    "tags": [
+      "bread",
+      "wheat"
+    ],
+    "source": {
+      "url": "https://www.fujipan.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "yukijirushi-6p-cheese-1pc",
+    "name_en": "Snow Brand 6P Cheese",
+    "name_jp": "雪印メグミルク 6Pチーズ 1個",
+    "name_jp_kana": "ユキジルシメグミルク ロクピーチーズ",
+    "brand": "Snow Brand Megmilk",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "1 piece (18g)",
+      "size_label_jp": "1個(18g)",
+      "size_g": 18
+    },
+    "nutrition": {
+      "calories": 57,
+      "protein_g": 4,
+      "fat_g": 4.4,
+      "carbs_g": 0.2,
+      "sodium_mg": 220,
+      "salt_g": 0.56,
+      "cholesterol_mg": 13
+    },
+    "tags": [
+      "dairy",
+      "cheese"
+    ],
+    "source": {
+      "url": "https://www.meg-snow.com/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "morinaga-inzeri-protein-150g",
+    "name_en": "Morinaga inZeri Protein",
+    "name_jp": "森永 inゼリー プロテイン ヨーグルト味",
+    "name_jp_kana": "モリナガ インゼリー プロテイン",
+    "brand": "Morinaga",
+    "category": "supplement",
+    "subcategory": "protein-drink",
+    "serving": {
+      "size_label": "1 pouch (150g)",
+      "size_label_jp": "1袋(150g)",
+      "size_g": 150
+    },
+    "nutrition": {
+      "calories": 100,
+      "protein_g": 15,
+      "fat_g": 0,
+      "carbs_g": 10,
+      "sodium_mg": 80,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "high_protein",
+      "jelly"
+    ],
+    "source": {
+      "url": "https://www.morinaga.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  }
+]

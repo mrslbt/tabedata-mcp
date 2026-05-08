@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ministop-fried-chicken-piece",
+    "name_en": "Fried Chicken (1 piece, Y!chicken)",
+    "name_jp": "Y!チキン (1個)",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece (~85g)",
+      "size_label_jp": "1個(約85g)",
+      "size_g": 85
+    },
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 14,
+      "fat_g": 14.5,
+      "carbs_g": 11,
+      "sodium_mg": 540,
+      "salt_g": 1.4
+    },
+    "tags": [
+      "high_protein",
+      "high_fat"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "Ministop hot-snack fried chicken. Comparable footprint to FamiChiki and Karaage-kun. Numbers placeholder; reverify against current SKU label for v0.2.",
+    "notes_jp": "ミニストップのホットスナック。ファミチキ・からあげクンと同等規模。v0.2で公式ラベル再確認予定。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-halohalo-ramune",
+    "name_en": "Halo-Halo Ramune",
+    "name_jp": "ハロハロ ラムネ",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "dessert",
+    "serving": {
+      "size_label": "1 cup",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 272,
+      "protein_g": 2.8,
+      "fat_g": 4.9,
+      "carbs_g": 54.2,
+      "sodium_mg": 118,
+      "salt_g": 0.3
+    },
+    "tags": [
+      "dessert",
+      "shaved_ice",
+      "ramune"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-halohalo-momo",
+    "name_en": "Halo-Halo White Peach",
+    "name_jp": "ハロハロ 白桃",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "dessert",
+    "serving": {
+      "size_label": "1 cup",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 216,
+      "protein_g": 2.6,
+      "fat_g": 3.3,
+      "carbs_g": 43.9,
+      "sodium_mg": 79,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "dessert",
+      "shaved_ice",
+      "peach"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-belgium-choco-soft",
+    "name_en": "Belgian Chocolate Soft Cream",
+    "name_jp": "ベルギーチョコソフト",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "dessert",
+    "serving": {
+      "size_label": "1 cone",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 190,
+      "protein_g": 4.6,
+      "fat_g": 6.9,
+      "carbs_g": 27.3,
+      "sodium_mg": 79,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "dessert",
+      "soft_cream",
+      "chocolate"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-soft-cream-vanilla",
+    "name_en": "Soft Cream Vanilla",
+    "name_jp": "ソフトクリーム バニラ",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "dessert",
+    "serving": {
+      "size_label": "1 cone",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 172,
+      "protein_g": 4.5,
+      "fat_g": 5.5,
+      "carbs_g": 26.1,
+      "sodium_mg": 79,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "dessert",
+      "soft_cream",
+      "vanilla"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-juicy-chicken-spicy",
+    "name_en": "Juicy Chicken (Spicy)",
+    "name_jp": "ジューシーチキン（辛口）",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 298,
+      "protein_g": 13.9,
+      "fat_g": 20,
+      "carbs_g": 14,
+      "sodium_mg": 787,
+      "salt_g": 2
+    },
+    "tags": [
+      "fried",
+      "spicy",
+      "hot_snack"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-cranky-chicken-shio",
+    "name_en": "Cranky Chicken Salt Flavor",
+    "name_jp": "クランキーチキン うす塩味",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 347,
+      "protein_g": 20.1,
+      "fat_g": 18.7,
+      "carbs_g": 23,
+      "sodium_mg": 826,
+      "salt_g": 2.1
+    },
+    "tags": [
+      "fried",
+      "hot_snack"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-onigiri-tuna-mayo",
+    "name_en": "Onigiri Tuna Mayo",
+    "name_jp": "ツナマヨネーズおにぎり",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 208,
+      "protein_g": 4.5,
+      "fat_g": 5,
+      "carbs_g": 36,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "onigiri",
+      "tuna",
+      "mayo"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-onigiri-shake",
+    "name_en": "Onigiri Salmon",
+    "name_jp": "紅鮭おにぎり",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 180,
+      "protein_g": 4.5,
+      "fat_g": 1.6,
+      "carbs_g": 36.5,
+      "sodium_mg": 472,
+      "salt_g": 1.2
+    },
+    "tags": [
+      "onigiri",
+      "salmon"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-onigiri-ume",
+    "name_en": "Onigiri Kishu Nanko Ume",
+    "name_jp": "紀州南高梅おにぎり",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 173,
+      "protein_g": 2.8,
+      "fat_g": 0.6,
+      "carbs_g": 38.5,
+      "sodium_mg": 511,
+      "salt_g": 1.3
+    },
+    "tags": [
+      "onigiri",
+      "umeboshi",
+      "vegetarian"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-american-dog-big",
+    "name_en": "Big American Dog",
+    "name_jp": "ビッグアメリカンドッグ",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1本",
+      "size_g": 102
+    },
+    "nutrition": {
+      "calories": 358,
+      "protein_g": 9.98,
+      "fat_g": 28.28,
+      "carbs_g": 17.13,
+      "sodium_mg": 826,
+      "salt_g": 2.1
+    },
+    "tags": [
+      "snack",
+      "sausage"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-hot-dog-plain",
+    "name_en": "Hot Dog (Plain)",
+    "name_jp": "ホットドッグ (プレーン)",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個",
+      "size_g": 157
+    },
+    "nutrition": {
+      "calories": 414,
+      "protein_g": 14.51,
+      "fat_g": 22.07,
+      "carbs_g": 43.21,
+      "sodium_mg": 944,
+      "salt_g": 2.4
+    },
+    "tags": [
+      "sandwich",
+      "sausage"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ministop-karaage-bento",
+    "name_en": "Karaage Bento",
+    "name_jp": "まんぷく亭監修 からあげ弁当",
+    "brand": "Ministop",
+    "category": "konbini",
+    "chain": "ministop",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 720,
+      "protein_g": 24.8,
+      "fat_g": 33.3,
+      "carbs_g": 84.6,
+      "sodium_mg": 1574,
+      "salt_g": 4
+    },
+    "tags": [
+      "bento",
+      "fried_chicken"
+    ],
+    "source": {
+      "url": "https://www.ministop.co.jp/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  }
+]

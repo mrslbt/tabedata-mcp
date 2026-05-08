@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "nakau-oyakodon",
+    "name_en": "Oyakodon (Chicken & Egg Rice Bowl)",
+    "name_jp": "親子丼",
+    "name_jp_kana": "オヤコドン",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular bowl (並盛)",
+      "size_label_jp": "並盛",
+      "size_g": 480
+    },
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 28.9,
+      "fat_g": 12.1,
+      "carbs_g": 94.9,
+      "fiber_g": 1.5,
+      "sodium_mg": 1457,
+      "salt_g": 3.7
+    },
+    "size_variants": [
+      {
+        "size": "small",
+        "size_label_jp": "ごはん小盛",
+        "modifier": 0.685,
+        "calories": 425,
+        "protein_g": 21.8,
+        "fat_g": 8.8,
+        "carbs_g": 62,
+        "sodium_mg": 866
+      },
+      {
+        "size": "regular",
+        "size_label_jp": "並盛",
+        "modifier": 1,
+        "calories": 620,
+        "protein_g": 28.9,
+        "fat_g": 12.1,
+        "carbs_g": 94.9,
+        "sodium_mg": 1457
+      },
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.19,
+        "calories": 738,
+        "protein_g": 30.6,
+        "fat_g": 12.4,
+        "carbs_g": 120.9,
+        "sodium_mg": 1457
+      },
+      {
+        "size": "extra-large",
+        "size_label_jp": "特盛",
+        "modifier": 1.263,
+        "calories": 783,
+        "protein_g": 36.4,
+        "fat_g": 14.7,
+        "carbs_g": 121.2,
+        "sodium_mg": 1535
+      }
+    ],
+    "ingredients": [
+      "chicken thigh",
+      "egg",
+      "onion",
+      "dashi",
+      "soy sauce",
+      "mirin",
+      "rice"
+    ],
+    "allergens": [
+      "egg",
+      "wheat",
+      "soy"
+    ],
+    "tags": [
+      "high_protein",
+      "balanced_macros",
+      "high_sodium"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Nutrition transcribed from official Nakau menu nutrition table (PDF rev 2022-04-21, retrieved 2026-05-09). Salt-to-sodium converted at 1g salt = 393.4mg sodium (Japan label convention).md gate 3 from chicken thigh ~110mg/100g, cooked rice 25mg/100g, egg 0mg.",
+    "notes_jp": "なか卯公式メニュー栄養成分一覧表(2022年4月21日更新版)より転記。食塩相当量から換算したナトリウム値を併記。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-wafu-gyudon",
+    "name_en": "Wafu Gyudon",
+    "name_jp": "和風牛丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 713,
+      "protein_g": 18.7,
+      "fat_g": 26.2,
+      "carbs_g": 95.2,
+      "sodium_mg": 826,
+      "salt_g": 2.1
+    },
+    "size_variants": [
+      {
+        "size": "small",
+        "size_label_jp": "小盛",
+        "modifier": 0.68,
+        "calories": 485,
+        "protein_g": 13,
+        "fat_g": 18.8,
+        "carbs_g": 62.6,
+        "sodium_mg": 590
+      },
+      {
+        "size": "large",
+        "size_label_jp": "大盛",
+        "modifier": 1.34,
+        "calories": 955,
+        "protein_g": 26.4,
+        "fat_g": 36.3,
+        "carbs_g": 124.1,
+        "sodium_mg": 1141
+      }
+    ],
+    "tags": [
+      "beef",
+      "gyudon",
+      "wafu"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-tokusei-kakiage-don",
+    "name_en": "Special Kakiage Tempura Bowl",
+    "name_jp": "特製かき揚げ丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 623,
+      "protein_g": 10,
+      "fat_g": 17.3,
+      "carbs_g": 102.8,
+      "sodium_mg": 826,
+      "salt_g": 2.1
+    },
+    "size_variants": [
+      {
+        "size": "small",
+        "size_label_jp": "ごはん小盛",
+        "modifier": 0.77,
+        "calories": 481,
+        "protein_g": 7.5,
+        "fat_g": 17.1,
+        "carbs_g": 71.6,
+        "sodium_mg": 590
+      },
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.19,
+        "calories": 741,
+        "protein_g": 11.7,
+        "fat_g": 17.5,
+        "carbs_g": 128.7,
+        "sodium_mg": 826
+      },
+      {
+        "size": "extra-large",
+        "size_label_jp": "特盛",
+        "modifier": 1.57,
+        "calories": 977,
+        "protein_g": 16,
+        "fat_g": 34.2,
+        "carbs_g": 146.2,
+        "sodium_mg": 1613
+      }
+    ],
+    "tags": [
+      "tempura",
+      "kakiage",
+      "vegetable"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-katsudon",
+    "name_en": "Katsudon",
+    "name_jp": "カツ丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 820,
+      "protein_g": 29.9,
+      "fat_g": 28.4,
+      "carbs_g": 107.8,
+      "sodium_mg": 1574,
+      "salt_g": 4
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.14,
+        "calories": 938,
+        "protein_g": 31.7,
+        "fat_g": 28.6,
+        "carbs_g": 133.7,
+        "sodium_mg": 1574
+      }
+    ],
+    "tags": [
+      "pork",
+      "cutlet",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-gyutoji-don",
+    "name_en": "Beef and Egg Bowl",
+    "name_jp": "牛とじ丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 727,
+      "protein_g": 23.8,
+      "fat_g": 25.2,
+      "carbs_g": 97.1,
+      "sodium_mg": 1298,
+      "salt_g": 3.3
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.16,
+        "calories": 845,
+        "protein_g": 25.6,
+        "fat_g": 25.4,
+        "carbs_g": 123.1,
+        "sodium_mg": 1298
+      }
+    ],
+    "tags": [
+      "beef",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-oyako-curry",
+    "name_en": "Chicken & Egg Curry",
+    "name_jp": "親子カレー",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "curry",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 906,
+      "protein_g": 38.9,
+      "fat_g": 29.2,
+      "carbs_g": 117,
+      "sodium_mg": 2872,
+      "salt_g": 7.3
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.13,
+        "calories": 1023,
+        "protein_g": 40.6,
+        "fat_g": 29.4,
+        "carbs_g": 143,
+        "sodium_mg": 2872
+      }
+    ],
+    "tags": [
+      "chicken",
+      "curry",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-torotama-oyakodon",
+    "name_en": "Soft Egg Oyakodon",
+    "name_jp": "とろたま親子丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 720,
+      "protein_g": 36.8,
+      "fat_g": 19,
+      "carbs_g": 95.2,
+      "sodium_mg": 1534,
+      "salt_g": 3.9
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.16,
+        "calories": 837,
+        "protein_g": 38.5,
+        "fat_g": 19.2,
+        "carbs_g": 121.1,
+        "sodium_mg": 1534
+      }
+    ],
+    "tags": [
+      "chicken",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-cheese-gyudon",
+    "name_en": "Cheese Gyudon",
+    "name_jp": "チーズ牛丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 800,
+      "protein_g": 24.3,
+      "fat_g": 31.4,
+      "carbs_g": 98.7,
+      "sodium_mg": 1141,
+      "salt_g": 2.9
+    },
+    "size_variants": [
+      {
+        "size": "small",
+        "size_label_jp": "小盛",
+        "modifier": 0.71,
+        "calories": 567,
+        "protein_g": 18.7,
+        "fat_g": 24.1,
+        "carbs_g": 64.8,
+        "sodium_mg": 826
+      },
+      {
+        "size": "large",
+        "size_label_jp": "大盛",
+        "modifier": 1.35,
+        "calories": 1077,
+        "protein_g": 34.3,
+        "fat_g": 44,
+        "carbs_g": 128.7,
+        "sodium_mg": 1574
+      }
+    ],
+    "tags": [
+      "beef",
+      "gyudon",
+      "cheese"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-cheese-oyakodon",
+    "name_en": "Cheese Oyakodon",
+    "name_jp": "チーズ親子丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 740,
+      "protein_g": 37,
+      "fat_g": 21.7,
+      "carbs_g": 95.6,
+      "sodium_mg": 1691,
+      "salt_g": 4.3
+    },
+    "size_variants": [
+      {
+        "size": "small",
+        "size_label_jp": "ごはん小盛",
+        "modifier": 0.74,
+        "calories": 544,
+        "protein_g": 30,
+        "fat_g": 18.4,
+        "carbs_g": 62.7,
+        "sodium_mg": 1102
+      },
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.16,
+        "calories": 857,
+        "protein_g": 38.8,
+        "fat_g": 22,
+        "carbs_g": 121.6,
+        "sodium_mg": 1691
+      }
+    ],
+    "tags": [
+      "chicken",
+      "egg",
+      "cheese"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-cheese-katsudon",
+    "name_en": "Cheese Katsudon",
+    "name_jp": "チーズカツ丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 968,
+      "protein_g": 39.7,
+      "fat_g": 40.3,
+      "carbs_g": 108.4,
+      "sodium_mg": 1849,
+      "salt_g": 4.7
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.12,
+        "calories": 1086,
+        "protein_g": 41.5,
+        "fat_g": 40.5,
+        "carbs_g": 134.4,
+        "sodium_mg": 1849
+      }
+    ],
+    "tags": [
+      "pork",
+      "cutlet",
+      "cheese"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-cheese-gyutoji-don",
+    "name_en": "Cheese Beef and Egg Bowl",
+    "name_jp": "チーズ牛とじ丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 875,
+      "protein_g": 33.6,
+      "fat_g": 37.1,
+      "carbs_g": 97.8,
+      "sodium_mg": 1574,
+      "salt_g": 4
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.13,
+        "calories": 992,
+        "protein_g": 35.4,
+        "fat_g": 37.3,
+        "carbs_g": 123.8,
+        "sodium_mg": 1574
+      }
+    ],
+    "tags": [
+      "beef",
+      "egg",
+      "cheese"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-cheese-umatoma-oyakodon",
+    "name_en": "Cheese Tomato Oyakodon",
+    "name_jp": "チーズうまトマ親子丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 844,
+      "protein_g": 40.3,
+      "fat_g": 30,
+      "carbs_g": 99.9,
+      "sodium_mg": 2046,
+      "salt_g": 5.2
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.14,
+        "calories": 961,
+        "protein_g": 42,
+        "fat_g": 30.2,
+        "carbs_g": 125.9,
+        "sodium_mg": 2046
+      }
+    ],
+    "tags": [
+      "chicken",
+      "egg",
+      "cheese",
+      "tomato"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-gyu-oyakodon",
+    "name_en": "Beef and Chicken & Egg Combo",
+    "name_jp": "牛・親子丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 890,
+      "protein_g": 40.6,
+      "fat_g": 33.6,
+      "carbs_g": 102.3,
+      "sodium_mg": 2164,
+      "salt_g": 5.5
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.13,
+        "calories": 1008,
+        "protein_g": 42.4,
+        "fat_g": 33.9,
+        "carbs_g": 128.2,
+        "sodium_mg": 2164
+      }
+    ],
+    "tags": [
+      "beef",
+      "chicken",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-gyu-katsudon",
+    "name_en": "Beef and Pork Cutlet Combo",
+    "name_jp": "牛・カツ丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 1090,
+      "protein_g": 41.7,
+      "fat_g": 49.9,
+      "carbs_g": 115.1,
+      "sodium_mg": 2282,
+      "salt_g": 5.8
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.11,
+        "calories": 1208,
+        "protein_g": 43.5,
+        "fat_g": 50.1,
+        "carbs_g": 141.1,
+        "sodium_mg": 2282
+      }
+    ],
+    "tags": [
+      "beef",
+      "pork",
+      "cutlet"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-karaage-oyakodon",
+    "name_en": "Fried Chicken and Oyakodon Combo",
+    "name_jp": "からあげ・親子丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 881,
+      "protein_g": 44.1,
+      "fat_g": 29.1,
+      "carbs_g": 106.7,
+      "sodium_mg": 2046,
+      "salt_g": 5.2
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.13,
+        "calories": 999,
+        "protein_g": 45.9,
+        "fat_g": 29.3,
+        "carbs_g": 132.7,
+        "sodium_mg": 2046
+      }
+    ],
+    "tags": [
+      "chicken",
+      "karaage",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-negilar-oyakodon",
+    "name_en": "Spicy Negi Oyakodon",
+    "name_jp": "ねぎラー親子丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 831,
+      "protein_g": 31.8,
+      "fat_g": 29.3,
+      "carbs_g": 106.9,
+      "sodium_mg": 1691,
+      "salt_g": 4.3
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.14,
+        "calories": 949,
+        "protein_g": 33.5,
+        "fat_g": 29.5,
+        "carbs_g": 132.9,
+        "sodium_mg": 1691
+      }
+    ],
+    "tags": [
+      "chicken",
+      "egg",
+      "spicy"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-umatoma-oyakodon",
+    "name_en": "Tomato Oyakodon",
+    "name_jp": "うまトマ親子丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 696,
+      "protein_g": 30.5,
+      "fat_g": 18.1,
+      "carbs_g": 99.2,
+      "sodium_mg": 1810,
+      "salt_g": 4.6
+    },
+    "size_variants": [
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.17,
+        "calories": 814,
+        "protein_g": 32.2,
+        "fat_g": 18.3,
+        "carbs_g": 125.2,
+        "sodium_mg": 1810
+      }
+    ],
+    "tags": [
+      "chicken",
+      "egg",
+      "tomato"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-asari-cream-oyakodon",
+    "name_en": "Clam Cream Oyakodon",
+    "name_jp": "あさりくり〜む親子丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 749,
+      "protein_g": 37.1,
+      "fat_g": 19.6,
+      "carbs_g": 101.7,
+      "sodium_mg": 1928,
+      "salt_g": 4.9
+    },
+    "size_variants": [
+      {
+        "size": "small",
+        "size_label_jp": "ごはん小盛",
+        "modifier": 0.74,
+        "calories": 553,
+        "protein_g": 30,
+        "fat_g": 16.2,
+        "carbs_g": 68.7,
+        "sodium_mg": 1338
+      },
+      {
+        "size": "large",
+        "size_label_jp": "ごはん大盛",
+        "modifier": 1.16,
+        "calories": 866,
+        "protein_g": 38.9,
+        "fat_g": 19.8,
+        "carbs_g": 127.7,
+        "sodium_mg": 1928
+      }
+    ],
+    "tags": [
+      "chicken",
+      "egg",
+      "clam",
+      "cream"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-kaisendon",
+    "name_en": "Seafood Bowl",
+    "name_jp": "海鮮丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 564,
+      "protein_g": 26.9,
+      "fat_g": 7.1,
+      "carbs_g": 92.2,
+      "sodium_mg": 551,
+      "salt_g": 1.4
+    },
+    "size_variants": [
+      {
+        "size": "extra-large",
+        "size_label_jp": "特盛",
+        "modifier": 1.43,
+        "calories": 805,
+        "protein_g": 47,
+        "fat_g": 10.4,
+        "carbs_g": 121.6,
+        "sodium_mg": 1023
+      }
+    ],
+    "tags": [
+      "seafood",
+      "raw"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "nakau-nama-sakura-ebi-kaisendon",
+    "name_en": "Fresh Sakura Shrimp Seafood Bowl",
+    "name_jp": "生桜海老海鮮丼",
+    "brand": "Nakau",
+    "category": "restaurant",
+    "chain": "nakau",
+    "subcategory": "bowl",
+    "serving": {
+      "size_label": "regular",
+      "size_label_jp": "並盛"
+    },
+    "nutrition": {
+      "calories": 582,
+      "protein_g": 30.2,
+      "fat_g": 7.5,
+      "carbs_g": 92.3,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "size_variants": [
+      {
+        "size": "extra-large",
+        "size_label_jp": "特盛",
+        "modifier": 1.44,
+        "calories": 840,
+        "protein_g": 53.6,
+        "fat_g": 11.2,
+        "carbs_g": 121.7,
+        "sodium_mg": 1141
+      }
+    ],
+    "tags": [
+      "seafood",
+      "raw",
+      "shrimp"
+    ],
+    "source": {
+      "url": "https://www.nakau.co.jp/jp/pdf/n_eiyouseibun_list.pdf",
+      "type": "official_pdf",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  }
+]

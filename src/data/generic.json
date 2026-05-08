@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "rice-white-cooked",
+    "name_en": "White Rice (Cooked)",
+    "name_jp": "白米 (炊いたもの)",
+    "name_jp_kana": "はくまい",
+    "category": "generic",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "200g serving (1 chawan)",
+      "size_label_jp": "茶碗1杯分(200g)",
+      "size_g": 200
+    },
+    "nutrition": {
+      "calories": 336,
+      "protein_g": 5,
+      "fat_g": 0.6,
+      "carbs_g": 74.2,
+      "fiber_g": 0.6,
+      "sodium_mg": 2,
+      "salt_g": 0
+    },
+    "size_variants": [
+      {
+        "size": "small",
+        "size_label_jp": "100g (小盛)",
+        "size_g": 100,
+        "modifier": 0.5,
+        "calories": 168,
+        "protein_g": 2.5,
+        "fat_g": 0.3,
+        "carbs_g": 37.1,
+        "sodium_mg": 1
+      },
+      {
+        "size": "regular",
+        "size_label_jp": "200g (並)",
+        "size_g": 200,
+        "modifier": 1,
+        "calories": 336,
+        "protein_g": 5,
+        "fat_g": 0.6,
+        "carbs_g": 74.2,
+        "sodium_mg": 2
+      },
+      {
+        "size": "large",
+        "size_label_jp": "300g (大盛)",
+        "size_g": 300,
+        "modifier": 1.5,
+        "calories": 504,
+        "protein_g": 7.5,
+        "fat_g": 0.9,
+        "carbs_g": 111.3,
+        "sodium_mg": 3
+      }
+    ],
+    "tags": [
+      "staple",
+      "low_sodium",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=1_01088_7",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Per Japan MEXT Standard Tables of Food Composition (rice, refined, cooked, item 01088). Public-domain reference values.",
+    "notes_jp": "文部科学省『日本食品標準成分表』(精白米・水稲めし、項目01088)より。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "boiled-egg-medium",
+    "name_en": "Boiled Egg (Medium)",
+    "name_jp": "ゆで卵 (M玉)",
+    "name_jp_kana": "ゆでたまご",
+    "category": "generic",
+    "subcategory": "boiled-egg",
+    "serving": {
+      "size_label": "1 medium egg (~50g without shell)",
+      "size_label_jp": "M玉1個(殻なし約50g)",
+      "size_g": 50
+    },
+    "nutrition": {
+      "calories": 76,
+      "protein_g": 6.2,
+      "fat_g": 5.2,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "cholesterol_mg": 186,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "high_protein",
+      "low_carb"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=1_12004_7",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Per MEXT food composition table (鶏卵, 全卵, ゆで).",
+    "notes_jp": "文部科学省『日本食品標準成分表』(鶏卵・全卵・ゆで)。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "banana-medium",
+    "name_en": "Banana (Medium)",
+    "name_jp": "バナナ (中)",
+    "name_jp_kana": "バナナ",
+    "category": "generic",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 medium banana (~100g peeled)",
+      "size_label_jp": "中1本(可食部約100g)",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 86,
+      "protein_g": 1.1,
+      "fat_g": 0.2,
+      "carbs_g": 22.5,
+      "fiber_g": 1.1,
+      "sugar_g": 19,
+      "sodium_mg": 0,
+      "salt_g": 0
+    },
+    "tags": [
+      "pre_workout",
+      "low_sodium"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=1_07107_7",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Per MEXT (バナナ・生, item 07107).",
+    "notes_jp": "文部科学省『日本食品標準成分表』(バナナ・生)。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "natto-pack",
+    "name_en": "Natto (1 pack)",
+    "name_jp": "納豆 (1パック)",
+    "name_jp_kana": "なっとう",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "1 pack (~50g)",
+      "size_label_jp": "1パック(約50g)",
+      "size_g": 50
+    },
+    "nutrition": {
+      "calories": 100,
+      "protein_g": 8.3,
+      "fat_g": 5,
+      "carbs_g": 6.1,
+      "fiber_g": 3.4,
+      "sodium_mg": 1,
+      "salt_g": 0
+    },
+    "tags": [
+      "high_protein",
+      "high_fiber",
+      "fermented"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=1_04046_7",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "notes_en": "Per MEXT (糸引き納豆, item 04046).",
+    "notes_jp": "文部科学省『日本食品標準成分表』(糸引き納豆)。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "miso-soup-tofu",
+    "name_en": "Miso Soup with Tofu",
+    "name_jp": "豆腐の味噌汁",
+    "category": "generic",
+    "subcategory": "soup",
+    "serving": {
+      "size_label": "1 bowl (~200g)",
+      "size_label_jp": "お椀1杯(約200g)",
+      "size_g": 200
+    },
+    "nutrition": {
+      "calories": 50,
+      "protein_g": 3.8,
+      "fat_g": 1.8,
+      "carbs_g": 4.2,
+      "fiber_g": 1,
+      "sodium_mg": 760,
+      "salt_g": 1.9
+    },
+    "tags": [
+      "low_calorie",
+      "high_sodium"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "Estimated from MEXT miso (赤味噌) + 30g momen tofu + dashi. Sodium varies widely by miso brand and concentration; ~760mg is a typical homemade bowl. Restaurant versions can hit 1000-1500mg.",
+    "notes_jp": "MEXT赤味噌・木綿豆腐・出汁の組み合わせからの推定値。塩分はブランドにより大きく変動します。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "rice-brown-cooked-150g",
+    "name_en": "Brown rice, cooked",
+    "name_jp": "玄米 めし",
+    "name_jp_kana": "ゲンマイ メシ",
+    "category": "generic",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 bowl (150g)",
+      "size_label_jp": "茶碗1杯(150g)",
+      "size_g": 150
+    },
+    "nutrition": {
+      "calories": 248,
+      "protein_g": 4.2,
+      "fat_g": 1.5,
+      "carbs_g": 53.4,
+      "fiber_g": 2.1,
+      "sodium_mg": 2,
+      "salt_g": 0
+    },
+    "tags": [
+      "whole_grain",
+      "fiber"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=1_01080_7",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "rice-mochigome-cooked-100g",
+    "name_en": "Glutinous rice cooked",
+    "name_jp": "もち米 おこわ",
+    "name_jp_kana": "モチゴメ オコワ",
+    "category": "generic",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 188,
+      "protein_g": 3.5,
+      "fat_g": 0.5,
+      "carbs_g": 41.9,
+      "fiber_g": 0.4,
+      "sodium_mg": 0,
+      "salt_g": 0
+    },
+    "tags": [
+      "sticky_rice"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=1_01154_7",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "rice-genmai-uncooked-100g",
+    "name_en": "Brown rice uncooked",
+    "name_jp": "玄米",
+    "name_jp_kana": "ゲンマイ",
+    "category": "generic",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "100g uncooked",
+      "size_label_jp": "100g(生)",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 346,
+      "protein_g": 6.8,
+      "fat_g": 2.7,
+      "carbs_g": 74.3,
+      "fiber_g": 3,
+      "sodium_mg": 1,
+      "salt_g": 0
+    },
+    "tags": [
+      "whole_grain"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "rice-hatsuga-genmai-cooked-150g",
+    "name_en": "Sprouted brown rice cooked",
+    "name_jp": "発芽玄米 めし",
+    "name_jp_kana": "ハツガゲンマイ メシ",
+    "category": "generic",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 bowl (150g)",
+      "size_label_jp": "茶碗1杯(150g)",
+      "size_g": 150
+    },
+    "nutrition": {
+      "calories": 251,
+      "protein_g": 4.5,
+      "fat_g": 2,
+      "carbs_g": 53.7,
+      "fiber_g": 2.6,
+      "sodium_mg": 2,
+      "salt_g": 0
+    },
+    "tags": [
+      "whole_grain",
+      "fiber"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "udon-boiled-250g",
+    "name_en": "Udon noodles boiled",
+    "name_jp": "うどん ゆで",
+    "name_jp_kana": "ウドン ユデ",
+    "category": "generic",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 serving (250g)",
+      "size_label_jp": "1玉(250g)",
+      "size_g": 250
+    },
+    "nutrition": {
+      "calories": 238,
+      "protein_g": 6.5,
+      "fat_g": 1,
+      "carbs_g": 54,
+      "fiber_g": 3.3,
+      "sodium_mg": 300,
+      "salt_g": 0.75
+    },
+    "tags": [
+      "wheat"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "soba-boiled-180g",
+    "name_en": "Soba noodles boiled",
+    "name_jp": "そば ゆで",
+    "name_jp_kana": "ソバ ユデ",
+    "category": "generic",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 serving (180g)",
+      "size_label_jp": "1玉(180g)",
+      "size_g": 180
+    },
+    "nutrition": {
+      "calories": 234,
+      "protein_g": 8.6,
+      "fat_g": 1.8,
+      "carbs_g": 47.5,
+      "fiber_g": 5.4,
+      "sodium_mg": 4,
+      "salt_g": 0
+    },
+    "tags": [
+      "buckwheat"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "somen-boiled-100g",
+    "name_en": "Somen noodles boiled",
+    "name_jp": "そうめん ゆで",
+    "name_jp_kana": "ソウメン ユデ",
+    "category": "generic",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 114,
+      "protein_g": 3.5,
+      "fat_g": 0.4,
+      "carbs_g": 25.8,
+      "fiber_g": 0.9,
+      "sodium_mg": 90,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "wheat"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "ramen-noodles-fresh-130g",
+    "name_en": "Ramen noodles boiled",
+    "name_jp": "中華めん ゆで",
+    "name_jp_kana": "チュウカメン ユデ",
+    "category": "generic",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 serving (130g)",
+      "size_label_jp": "1玉(130g)",
+      "size_g": 130
+    },
+    "nutrition": {
+      "calories": 174,
+      "protein_g": 6,
+      "fat_g": 0.8,
+      "carbs_g": 36,
+      "fiber_g": 1.8,
+      "sodium_mg": 91,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "wheat"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "pasta-spaghetti-boiled-200g",
+    "name_en": "Pasta spaghetti boiled",
+    "name_jp": "スパゲッティ ゆで",
+    "name_jp_kana": "スパゲッティ ユデ",
+    "category": "generic",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 serving (200g)",
+      "size_label_jp": "1人前(200g)",
+      "size_g": 200
+    },
+    "nutrition": {
+      "calories": 300,
+      "protein_g": 11.6,
+      "fat_g": 1.8,
+      "carbs_g": 64,
+      "fiber_g": 3,
+      "sodium_mg": 2,
+      "salt_g": 0
+    },
+    "tags": [
+      "wheat"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "tofu-momen-150g",
+    "name_en": "Firm tofu (momen)",
+    "name_jp": "木綿豆腐",
+    "name_jp_kana": "モメンドウフ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "Half block (150g)",
+      "size_label_jp": "半丁(150g)",
+      "size_g": 150
+    },
+    "nutrition": {
+      "calories": 110,
+      "protein_g": 10.5,
+      "fat_g": 7.4,
+      "carbs_g": 2.4,
+      "fiber_g": 1.7,
+      "sodium_mg": 14,
+      "salt_g": 0
+    },
+    "tags": [
+      "plant_protein",
+      "soy"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "tofu-kinugoshi-150g",
+    "name_en": "Silken tofu",
+    "name_jp": "絹ごし豆腐",
+    "name_jp_kana": "キヌゴシドウフ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "Half block (150g)",
+      "size_label_jp": "半丁(150g)",
+      "size_g": 150
+    },
+    "nutrition": {
+      "calories": 84,
+      "protein_g": 8,
+      "fat_g": 5.3,
+      "carbs_g": 3,
+      "fiber_g": 0.5,
+      "sodium_mg": 11,
+      "salt_g": 0
+    },
+    "tags": [
+      "plant_protein",
+      "soy"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "tofu-yakidofu-150g",
+    "name_en": "Grilled tofu",
+    "name_jp": "焼き豆腐",
+    "name_jp_kana": "ヤキドウフ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "Half block (150g)",
+      "size_label_jp": "半丁(150g)",
+      "size_g": 150
+    },
+    "nutrition": {
+      "calories": 123,
+      "protein_g": 11.7,
+      "fat_g": 8,
+      "carbs_g": 1.5,
+      "fiber_g": 0.8,
+      "sodium_mg": 6,
+      "salt_g": 0
+    },
+    "tags": [
+      "plant_protein",
+      "soy"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "tofu-atsuage-120g",
+    "name_en": "Thick deep-fried tofu",
+    "name_jp": "厚揚げ",
+    "name_jp_kana": "アツアゲ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "1 piece (120g)",
+      "size_label_jp": "1個(120g)",
+      "size_g": 120
+    },
+    "nutrition": {
+      "calories": 175,
+      "protein_g": 12.8,
+      "fat_g": 13.4,
+      "carbs_g": 1.1,
+      "fiber_g": 1,
+      "sodium_mg": 4,
+      "salt_g": 0
+    },
+    "tags": [
+      "plant_protein",
+      "soy",
+      "fried"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "tofu-aburaage-30g",
+    "name_en": "Thin deep-fried tofu",
+    "name_jp": "油揚げ",
+    "name_jp_kana": "アブラアゲ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "1 piece (30g)",
+      "size_label_jp": "1枚(30g)",
+      "size_g": 30
+    },
+    "nutrition": {
+      "calories": 113,
+      "protein_g": 7,
+      "fat_g": 10.3,
+      "carbs_g": 0.1,
+      "fiber_g": 0.4,
+      "sodium_mg": 1,
+      "salt_g": 0
+    },
+    "tags": [
+      "plant_protein",
+      "soy",
+      "fried"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "salmon-raw-100g",
+    "name_en": "Salmon raw",
+    "name_jp": "さけ 生",
+    "name_jp_kana": "サケ ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 124,
+      "protein_g": 22.3,
+      "fat_g": 4.1,
+      "carbs_g": 0.1,
+      "sodium_mg": 66,
+      "salt_g": 0.17,
+      "cholesterol_mg": 59
+    },
+    "tags": [
+      "fish",
+      "high_protein",
+      "omega3"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "tuna-akami-raw-100g",
+    "name_en": "Tuna lean raw",
+    "name_jp": "まぐろ 赤身 生",
+    "name_jp_kana": "マグロ アカミ ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 115,
+      "protein_g": 26.4,
+      "fat_g": 1.4,
+      "carbs_g": 0.1,
+      "sodium_mg": 49,
+      "salt_g": 0.12,
+      "cholesterol_mg": 50
+    },
+    "tags": [
+      "fish",
+      "high_protein",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "mackerel-saba-raw-100g",
+    "name_en": "Mackerel raw",
+    "name_jp": "さば 生",
+    "name_jp_kana": "サバ ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 211,
+      "protein_g": 20.6,
+      "fat_g": 16.8,
+      "carbs_g": 0.3,
+      "sodium_mg": 110,
+      "salt_g": 0.28,
+      "cholesterol_mg": 61
+    },
+    "tags": [
+      "fish",
+      "high_protein",
+      "omega3"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "saba-misoni-canned-100g",
+    "name_en": "Mackerel miso canned",
+    "name_jp": "さば 味噌煮 缶詰",
+    "name_jp_kana": "サバ ミソニ カンヅメ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 217,
+      "protein_g": 16.3,
+      "fat_g": 13.9,
+      "carbs_g": 6.6,
+      "sodium_mg": 430,
+      "salt_g": 1.1,
+      "cholesterol_mg": 70
+    },
+    "tags": [
+      "fish",
+      "canned",
+      "miso"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "shirasu-boiled-30g",
+    "name_en": "Whitebait shirasu",
+    "name_jp": "しらす干し",
+    "name_jp_kana": "シラスボシ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "1 portion (30g)",
+      "size_label_jp": "1食(30g)",
+      "size_g": 30
+    },
+    "nutrition": {
+      "calories": 34,
+      "protein_g": 7.4,
+      "fat_g": 0.5,
+      "carbs_g": 0.1,
+      "sodium_mg": 510,
+      "salt_g": 1.3,
+      "cholesterol_mg": 75
+    },
+    "tags": [
+      "fish",
+      "high_protein",
+      "calcium"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "tamagoyaki-50g",
+    "name_en": "Japanese rolled omelet",
+    "name_jp": "卵焼き",
+    "name_jp_kana": "タマゴヤキ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "1 serving (50g)",
+      "size_label_jp": "1切れ(50g)",
+      "size_g": 50
+    },
+    "nutrition": {
+      "calories": 64,
+      "protein_g": 5.1,
+      "fat_g": 4.6,
+      "carbs_g": 1,
+      "sodium_mg": 220,
+      "salt_g": 0.56,
+      "cholesterol_mg": 200
+    },
+    "tags": [
+      "egg",
+      "protein"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "cabbage-raw-100g",
+    "name_en": "Cabbage raw",
+    "name_jp": "キャベツ 生",
+    "name_jp_kana": "キャベツ ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 21,
+      "protein_g": 1.3,
+      "fat_g": 0.2,
+      "carbs_g": 5.2,
+      "fiber_g": 1.8,
+      "sodium_mg": 5,
+      "salt_g": 0
+    },
+    "tags": [
+      "vegetable",
+      "low_calorie"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lettuce-raw-100g",
+    "name_en": "Lettuce raw",
+    "name_jp": "レタス 生",
+    "name_jp_kana": "レタス ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 11,
+      "protein_g": 0.6,
+      "fat_g": 0.1,
+      "carbs_g": 2.8,
+      "fiber_g": 1.1,
+      "sodium_mg": 2,
+      "salt_g": 0
+    },
+    "tags": [
+      "vegetable",
+      "low_calorie"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "cucumber-raw-100g",
+    "name_en": "Cucumber raw",
+    "name_jp": "きゅうり 生",
+    "name_jp_kana": "キュウリ ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 13,
+      "protein_g": 1,
+      "fat_g": 0.1,
+      "carbs_g": 3,
+      "fiber_g": 1.1,
+      "sodium_mg": 1,
+      "salt_g": 0
+    },
+    "tags": [
+      "vegetable",
+      "low_calorie"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "tomato-raw-100g",
+    "name_en": "Tomato raw",
+    "name_jp": "トマト 生",
+    "name_jp_kana": "トマト ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 20,
+      "protein_g": 0.7,
+      "fat_g": 0.1,
+      "carbs_g": 4.7,
+      "fiber_g": 1,
+      "sodium_mg": 3,
+      "salt_g": 0
+    },
+    "tags": [
+      "vegetable",
+      "lycopene"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "carrot-raw-100g",
+    "name_en": "Carrot raw",
+    "name_jp": "にんじん 生",
+    "name_jp_kana": "ニンジン ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 35,
+      "protein_g": 0.7,
+      "fat_g": 0.2,
+      "carbs_g": 9.3,
+      "fiber_g": 2.8,
+      "sodium_mg": 28,
+      "salt_g": 0.07
+    },
+    "tags": [
+      "vegetable",
+      "beta_carotene"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "daikon-raw-100g",
+    "name_en": "Daikon raw",
+    "name_jp": "だいこん 生",
+    "name_jp_kana": "ダイコン ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 15,
+      "protein_g": 0.4,
+      "fat_g": 0.1,
+      "carbs_g": 4.1,
+      "fiber_g": 1.4,
+      "sodium_mg": 17,
+      "salt_g": 0.04
+    },
+    "tags": [
+      "vegetable",
+      "low_calorie"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "hourenso-boiled-80g",
+    "name_en": "Spinach boiled",
+    "name_jp": "ほうれんそう ゆで",
+    "name_jp_kana": "ホウレンソウ ユデ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "1 portion (80g)",
+      "size_label_jp": "小鉢1人前(80g)",
+      "size_g": 80
+    },
+    "nutrition": {
+      "calories": 18,
+      "protein_g": 2.1,
+      "fat_g": 0.3,
+      "carbs_g": 3.3,
+      "fiber_g": 2.9,
+      "sodium_mg": 8,
+      "salt_g": 0.02
+    },
+    "tags": [
+      "vegetable",
+      "iron",
+      "fiber"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "mizuna-raw-100g",
+    "name_en": "Mizuna raw",
+    "name_jp": "みずな 生",
+    "name_jp_kana": "ミズナ ナマ",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "100g",
+      "size_label_jp": "100g",
+      "size_g": 100
+    },
+    "nutrition": {
+      "calories": 23,
+      "protein_g": 2.2,
+      "fat_g": 0.1,
+      "carbs_g": 4.8,
+      "fiber_g": 3,
+      "sodium_mg": 36,
+      "salt_g": 0.09
+    },
+    "tags": [
+      "vegetable",
+      "fiber"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "egg-raw-50g",
+    "name_en": "Chicken egg raw whole",
+    "name_jp": "鶏卵 全卵 生",
+    "name_jp_kana": "ケイラン ゼンラン ナマ",
+    "category": "generic",
+    "subcategory": "boiled-egg",
+    "serving": {
+      "size_label": "1 medium (50g)",
+      "size_label_jp": "M玉1個(50g)",
+      "size_g": 50
+    },
+    "nutrition": {
+      "calories": 71,
+      "protein_g": 6.1,
+      "fat_g": 5.1,
+      "carbs_g": 0.2,
+      "sodium_mg": 70,
+      "salt_g": 0.18,
+      "cholesterol_mg": 185
+    },
+    "tags": [
+      "egg",
+      "protein"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "egg-fried-medamayaki-60g",
+    "name_en": "Sunny-side up egg",
+    "name_jp": "目玉焼き",
+    "name_jp_kana": "メダマヤキ",
+    "category": "generic",
+    "subcategory": "boiled-egg",
+    "serving": {
+      "size_label": "1 piece (60g)",
+      "size_label_jp": "1個(60g)",
+      "size_g": 60
+    },
+    "nutrition": {
+      "calories": 122,
+      "protein_g": 7.6,
+      "fat_g": 9.8,
+      "carbs_g": 0.2,
+      "sodium_mg": 102,
+      "salt_g": 0.26,
+      "cholesterol_mg": 222
+    },
+    "tags": [
+      "egg",
+      "protein"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "milk-whole-200ml",
+    "name_en": "Whole milk",
+    "name_jp": "普通牛乳",
+    "name_jp_kana": "フツウギュウニュウ",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 glass (200ml)",
+      "size_label_jp": "コップ1杯(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 122,
+      "protein_g": 6.4,
+      "fat_g": 7,
+      "carbs_g": 9,
+      "sodium_mg": 84,
+      "salt_g": 0.21
+    },
+    "tags": [
+      "dairy",
+      "calcium"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "milk-lowfat-200ml",
+    "name_en": "Low-fat milk",
+    "name_jp": "低脂肪牛乳",
+    "name_jp_kana": "テイシボウギュウニュウ",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 glass (200ml)",
+      "size_label_jp": "コップ1杯(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 84,
+      "protein_g": 7.8,
+      "fat_g": 2.1,
+      "carbs_g": 11.3,
+      "sodium_mg": 124,
+      "salt_g": 0.31
+    },
+    "tags": [
+      "dairy",
+      "calcium",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "cheese-process-slice-18g",
+    "name_en": "Processed cheese slice",
+    "name_jp": "プロセスチーズ スライス",
+    "name_jp_kana": "プロセスチーズ スライス",
+    "category": "generic",
+    "subcategory": "side",
+    "serving": {
+      "size_label": "1 slice (18g)",
+      "size_label_jp": "1枚(18g)",
+      "size_g": 18
+    },
+    "nutrition": {
+      "calories": 56,
+      "protein_g": 4.1,
+      "fat_g": 4.7,
+      "carbs_g": 0.2,
+      "sodium_mg": 198,
+      "salt_g": 0.5,
+      "cholesterol_mg": 14
+    },
+    "tags": [
+      "dairy",
+      "calcium"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "green-tea-sencha-200ml",
+    "name_en": "Green tea sencha",
+    "name_jp": "煎茶",
+    "name_jp_kana": "センチャ",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 cup (200ml)",
+      "size_label_jp": "1杯(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 4,
+      "protein_g": 0.4,
+      "fat_g": 0,
+      "carbs_g": 0.4,
+      "sodium_mg": 6,
+      "salt_g": 0.02
+    },
+    "tags": [
+      "tea",
+      "zero_calorie",
+      "caffeine"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "barley-tea-mugicha-200ml",
+    "name_en": "Barley tea mugicha",
+    "name_jp": "麦茶",
+    "name_jp_kana": "ムギチャ",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 cup (200ml)",
+      "size_label_jp": "1杯(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 2,
+      "protein_g": 0,
+      "fat_g": 0,
+      "carbs_g": 0.6,
+      "sodium_mg": 2,
+      "salt_g": 0
+    },
+    "tags": [
+      "tea",
+      "caffeine_free",
+      "zero_calorie"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "coffee-black-200ml",
+    "name_en": "Coffee black brewed",
+    "name_jp": "コーヒー ブラック",
+    "name_jp_kana": "コーヒー ブラック",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 cup (200ml)",
+      "size_label_jp": "1杯(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 8,
+      "protein_g": 0.4,
+      "fat_g": 0,
+      "carbs_g": 1.4,
+      "sodium_mg": 2,
+      "salt_g": 0
+    },
+    "tags": [
+      "coffee",
+      "zero_calorie",
+      "caffeine"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "oolong-tea-200ml",
+    "name_en": "Oolong tea brewed",
+    "name_jp": "ウーロン茶",
+    "name_jp_kana": "ウーロンチャ",
+    "category": "drink",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 cup (200ml)",
+      "size_label_jp": "1杯(200ml)",
+      "size_ml": 200
+    },
+    "nutrition": {
+      "calories": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "carbs_g": 0.2,
+      "sodium_mg": 2,
+      "salt_g": 0
+    },
+    "tags": [
+      "tea",
+      "zero_calorie",
+      "caffeine"
+    ],
+    "source": {
+      "url": "https://fooddb.mext.go.jp/",
+      "type": "mext",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  }
+]

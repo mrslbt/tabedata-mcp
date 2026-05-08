@@ -1,0 +1,998 @@
+[
+  {
+    "id": "familymart-famichiki",
+    "name_en": "FamiChiki (Fried Chicken)",
+    "name_jp": "ファミチキ",
+    "name_jp_kana": "ファミチキ",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece (~95g)",
+      "size_label_jp": "1個(約95g)",
+      "size_g": 95
+    },
+    "nutrition": {
+      "calories": 251,
+      "protein_g": 14.7,
+      "fat_g": 16,
+      "carbs_g": 12,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "high_protein",
+      "high_fat"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "FamilyMart's flagship hot-snack chicken. Boneless thigh, breaded and fried.",
+    "notes_jp": "ファミマのホットスナック定番。骨なし鶏もも肉。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-salad-chicken-plain",
+    "name_en": "Salad Chicken (Plain)",
+    "name_jp": "サラダチキン プレーン",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 pouch (~115g)",
+      "size_label_jp": "1袋(約115g)",
+      "size_g": 115
+    },
+    "nutrition": {
+      "calories": 113,
+      "protein_g": 24.3,
+      "fat_g": 1.1,
+      "carbs_g": 1.2,
+      "sodium_mg": 800,
+      "salt_g": 2
+    },
+    "tags": [
+      "high_protein",
+      "low_carb",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "FamilyMart salad chicken plain.",
+    "notes_jp": "ファミマ サラダチキン プレーン。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-famichiki-red",
+    "name_en": "FamiChiki Red (Spicy)",
+    "name_jp": "ファミチキ（レッド）",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 253,
+      "protein_g": 14.9,
+      "fat_g": 14.7,
+      "carbs_g": 15.5,
+      "sodium_mg": 708,
+      "salt_g": 1.8
+    },
+    "tags": [
+      "spicy",
+      "fried",
+      "hot_snack"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-cheese-in-famichiki",
+    "name_en": "Rich Cheese-in FamiChiki",
+    "name_jp": "濃厚チーズinファミチキ",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 14,
+      "fat_g": 17.5,
+      "carbs_g": 16,
+      "sodium_mg": 826,
+      "salt_g": 2.1
+    },
+    "tags": [
+      "cheese",
+      "fried",
+      "hot_snack"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-spicy-chicken",
+    "name_en": "Spicy Chicken",
+    "name_jp": "スパイシーチキン",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 207,
+      "protein_g": 9.5,
+      "fat_g": 12.2,
+      "carbs_g": 14.7,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "spicy",
+      "fried",
+      "hot_snack"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-crispy-chicken-plain",
+    "name_en": "Crispy Chicken (Plain)",
+    "name_jp": "クリスピーチキン（プレーン）",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個",
+      "size_g": 65
+    },
+    "nutrition": {
+      "calories": 183,
+      "protein_g": 11,
+      "fat_g": 10.5,
+      "carbs_g": 11,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "fried",
+      "hot_snack"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-onigiri-shake",
+    "name_en": "Onigiri Salmon",
+    "name_jp": "手巻 紅しゃけ",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 168,
+      "protein_g": 4.3,
+      "fat_g": 1.5,
+      "carbs_g": 34.6,
+      "sodium_mg": 275,
+      "salt_g": 0.7
+    },
+    "tags": [
+      "salmon",
+      "onigiri"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-onigiri-konbu",
+    "name_en": "Onigiri Kombu",
+    "name_jp": "手巻 真昆布",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 183,
+      "protein_g": 3.2,
+      "fat_g": 1.3,
+      "carbs_g": 40.2,
+      "sodium_mg": 433,
+      "salt_g": 1.1
+    },
+    "tags": [
+      "kombu",
+      "onigiri",
+      "vegetarian"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-onigiri-tuna-mayo",
+    "name_en": "Onigiri Tuna Mayo",
+    "name_jp": "直巻 和風ツナマヨネーズ",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 241,
+      "protein_g": 4.6,
+      "fat_g": 5.7,
+      "carbs_g": 43,
+      "sodium_mg": 669,
+      "salt_g": 1.7
+    },
+    "tags": [
+      "tuna",
+      "mayo",
+      "onigiri"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-onigiri-takana",
+    "name_en": "Onigiri Aoshiso Takana",
+    "name_jp": "青しそ高菜おむすび",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 163,
+      "protein_g": 2.8,
+      "fat_g": 1.5,
+      "carbs_g": 34.9,
+      "sodium_mg": 511,
+      "salt_g": 1.3
+    },
+    "tags": [
+      "takana",
+      "onigiri",
+      "vegetarian"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-onigiri-ume",
+    "name_en": "Onigiri Kishu Nanko Ume",
+    "name_jp": "手巻 紀州南高梅",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 176,
+      "protein_g": 2.8,
+      "fat_g": 1.1,
+      "carbs_g": 39,
+      "sodium_mg": 511,
+      "salt_g": 1.3
+    },
+    "tags": [
+      "umeboshi",
+      "onigiri",
+      "vegetarian"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-onigiri-shake-haramin",
+    "name_en": "Onigiri Salmon Harami",
+    "name_jp": "鮭はらみおむすび",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 209,
+      "protein_g": 5.2,
+      "fat_g": 3.8,
+      "carbs_g": 38.6,
+      "sodium_mg": 433,
+      "salt_g": 1.1
+    },
+    "tags": [
+      "salmon",
+      "onigiri",
+      "premium"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-salad-chicken-herb",
+    "name_en": "Salad Chicken 3 Herbs & Spices",
+    "name_jp": "国産鶏のサラダチキン 3種のハーブ&スパイス",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋",
+      "size_g": 110
+    },
+    "nutrition": {
+      "calories": 121,
+      "protein_g": 22.6,
+      "fat_g": 2.5,
+      "carbs_g": 0.8,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "chicken",
+      "high_protein",
+      "low_carb",
+      "herb"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-salad-chicken-smoke",
+    "name_en": "Salad Chicken Smoked",
+    "name_jp": "国産鶏のサラダチキン スモーク",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋",
+      "size_g": 115
+    },
+    "nutrition": {
+      "calories": 115,
+      "protein_g": 22.3,
+      "fat_g": 1.7,
+      "carbs_g": 0.7,
+      "sodium_mg": 629,
+      "salt_g": 1.6
+    },
+    "tags": [
+      "chicken",
+      "high_protein",
+      "low_carb",
+      "smoked"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-salad-chicken-lemon",
+    "name_en": "Salad Chicken Lemon",
+    "name_jp": "国産鶏のサラダチキン レモン",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋",
+      "size_g": 110
+    },
+    "nutrition": {
+      "calories": 114,
+      "protein_g": 19.9,
+      "fat_g": 1.4,
+      "carbs_g": 5.5,
+      "sodium_mg": 511,
+      "salt_g": 1.3
+    },
+    "tags": [
+      "chicken",
+      "high_protein",
+      "lemon"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-egg-ham-sandwich",
+    "name_en": "Ham & Lettuce Egg Sandwich",
+    "name_jp": "ハムレタスたまごサンド",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋"
+    },
+    "nutrition": {
+      "calories": 223,
+      "protein_g": 8.7,
+      "fat_g": 9,
+      "carbs_g": 27.6,
+      "sodium_mg": 551,
+      "salt_g": 1.4
+    },
+    "tags": [
+      "sandwich",
+      "egg",
+      "ham"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-mix-sandwich-3",
+    "name_en": "3-Type Mix Sandwich",
+    "name_jp": "3種のミックスサンド",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋"
+    },
+    "nutrition": {
+      "calories": 303,
+      "protein_g": 9.9,
+      "fat_g": 15.9,
+      "carbs_g": 30.9,
+      "sodium_mg": 669,
+      "salt_g": 1.7
+    },
+    "tags": [
+      "sandwich",
+      "egg",
+      "ham",
+      "tuna"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-ham-cheese-parisian",
+    "name_en": "Stone-Oven Parisian Sandwich",
+    "name_jp": "石窯パリジャンサンド（ハム&チーズ）",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋"
+    },
+    "nutrition": {
+      "calories": 257,
+      "protein_g": 9.9,
+      "fat_g": 9.3,
+      "carbs_g": 34.4,
+      "sodium_mg": 551,
+      "salt_g": 1.4
+    },
+    "tags": [
+      "sandwich",
+      "ham",
+      "cheese"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-tuna-egg-sandwich",
+    "name_en": "Tuna and Egg Sandwich",
+    "name_jp": "ツナとたまごサンド",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋"
+    },
+    "nutrition": {
+      "calories": 309,
+      "protein_g": 9.5,
+      "fat_g": 19.1,
+      "carbs_g": 25.5,
+      "sodium_mg": 433,
+      "salt_g": 1.1
+    },
+    "tags": [
+      "sandwich",
+      "tuna",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-bento-nori-mentaiko",
+    "name_en": "Mentaiko Nori Bento",
+    "name_jp": "明太海苔弁当",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 775,
+      "protein_g": 19.7,
+      "fat_g": 22.6,
+      "carbs_g": 125,
+      "sodium_mg": 1574,
+      "salt_g": 4
+    },
+    "tags": [
+      "bento",
+      "fish"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-bento-soboro-chickennanban",
+    "name_en": "3-Color Soboro & Chicken Nanban Bento",
+    "name_jp": "3色そぼろ&チキン南蛮弁当",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 770,
+      "protein_g": 31.2,
+      "fat_g": 29.2,
+      "carbs_g": 96.4,
+      "sodium_mg": 1810,
+      "salt_g": 4.6
+    },
+    "tags": [
+      "bento",
+      "chicken"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-bento-gyukalbi",
+    "name_en": "Beef Karubi Don Bento",
+    "name_jp": "特製ダレの炙り焼牛カルビ重",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 702,
+      "protein_g": 19.6,
+      "fat_g": 21.7,
+      "carbs_g": 107.3,
+      "sodium_mg": 1102,
+      "salt_g": 2.8
+    },
+    "tags": [
+      "bento",
+      "beef"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-oyakodon",
+    "name_en": "Fluffy Egg Oyakodon",
+    "name_jp": "お出汁染み込む ふんわり玉子の親子丼",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 482,
+      "protein_g": 17.5,
+      "fat_g": 13.5,
+      "carbs_g": 73,
+      "sodium_mg": 866,
+      "salt_g": 2.2
+    },
+    "tags": [
+      "donburi",
+      "chicken",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-napolitan",
+    "name_en": "FamiMa The Napolitan",
+    "name_jp": "ファミマ・ザ・ナポリタン",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 523,
+      "protein_g": 16.5,
+      "fat_g": 17.1,
+      "carbs_g": 78.9,
+      "fiber_g": 5.6,
+      "sodium_mg": 2006,
+      "salt_g": 5.1
+    },
+    "tags": [
+      "pasta",
+      "tomato"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-peperoncino-large",
+    "name_en": "Large Peperoncino Chicken & Bacon",
+    "name_jp": "大盛ペペロンチーノ チキン&ベーコン",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食",
+      "size_g": 429
+    },
+    "nutrition": {
+      "calories": 781,
+      "protein_g": 34.7,
+      "fat_g": 27.9,
+      "carbs_g": 97.4,
+      "sodium_mg": 2360,
+      "salt_g": 6
+    },
+    "tags": [
+      "pasta",
+      "garlic",
+      "chicken"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-cream-puff-custard",
+    "name_en": "Rich Custard Cream Puff",
+    "name_jp": "クリームたっぷり！濃厚カスタードシュー",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "dessert",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 233,
+      "protein_g": 5.2,
+      "fat_g": 14.5,
+      "carbs_g": 20.6,
+      "sodium_mg": 79,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "dessert",
+      "cream_puff"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-double-shu",
+    "name_en": "Double Cream Puff",
+    "name_jp": "たっぷりクリームのダブルシュー",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "dessert",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個",
+      "size_g": 109
+    },
+    "nutrition": {
+      "calories": 298,
+      "protein_g": 5.5,
+      "fat_g": 19.8,
+      "carbs_g": 24.4,
+      "sodium_mg": 110,
+      "salt_g": 0.28
+    },
+    "tags": [
+      "dessert",
+      "cream_puff"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "estimated",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-hash-potato",
+    "name_en": "Hash Brown Potato",
+    "name_jp": "ハッシュドポテト",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個",
+      "size_g": 48
+    },
+    "nutrition": {
+      "calories": 182,
+      "protein_g": 1.9,
+      "fat_g": 12.4,
+      "carbs_g": 15.8,
+      "fiber_g": 1.6,
+      "sodium_mg": 275,
+      "salt_g": 0.7
+    },
+    "tags": [
+      "snack",
+      "potato",
+      "hot_snack"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "familymart-protein-chicken-roll",
+    "name_en": "High-Protein Salad Chicken Roll",
+    "name_jp": "たんぱく質が摂れる！サラダチキンロール",
+    "brand": "FamilyMart",
+    "category": "konbini",
+    "chain": "familymart",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋"
+    },
+    "nutrition": {
+      "calories": 324,
+      "protein_g": 25.2,
+      "fat_g": 13.3,
+      "carbs_g": 28.1,
+      "sodium_mg": 826,
+      "salt_g": 2.1
+    },
+    "tags": [
+      "sandwich",
+      "high_protein",
+      "chicken"
+    ],
+    "source": {
+      "url": "https://www.family.co.jp/goods/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  }
+]

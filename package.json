@@ -1,0 +1,85 @@
+{
+  "name": "@mrslbt/tabedata-mcp",
+  "version": "1.0.0",
+  "mcpName": "io.github.mrslbt/tabedata-mcp",
+  "description": "MCP server for Japanese food nutrition data — bilingual (JP/EN), gout-aware, konbini + restaurant chain coverage. Built for AI assistants and Tokyo expats.",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "tabedata-mcp": "./dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "build": "tsup",
+    "start": "node dist/index.js",
+    "start:http": "MCP_TRANSPORT=http node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "dev:http": "MCP_TRANSPORT=http tsx src/index.ts",
+    "test": "npm run build && SKIP_LIVE=1 node test/integration.test.mjs",
+    "test:live": "npm run build && node test/integration.test.mjs",
+    "test:unit": "node --import tsx/esm --test test/unit/*.test.mjs",
+    "verify-data": "tsx scripts/verify-data.ts",
+    "stats": "tsx scripts/stats.ts",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build && npm run typecheck"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "modelcontextprotocol",
+    "nutrition",
+    "japanese-food",
+    "japan",
+    "tokyo",
+    "konbini",
+    "7-eleven",
+    "lawson",
+    "familymart",
+    "ministop",
+    "gout",
+    "purine",
+    "macros",
+    "calories",
+    "protein",
+    "fitness",
+    "diet",
+    "claude",
+    "claude-desktop",
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "anthropic",
+    "ai-agent"
+  ],
+  "author": {
+    "name": "Marsel Bait",
+    "url": "https://marselbait.me"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mrslbt/tabedata-mcp#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrslbt/tabedata-mcp"
+  },
+  "bugs": {
+    "url": "https://github.com/mrslbt/tabedata-mcp/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsup": "^8.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.7.0"
+  }
+}

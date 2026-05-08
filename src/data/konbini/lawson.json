@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "lawson-karaage-kun-original",
+    "name_en": "Karaage-kun (Original)",
+    "name_jp": "からあげクン レギュラー",
+    "name_jp_kana": "カラアゲクン",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 box (5 pieces, ~80g)",
+      "size_label_jp": "1箱(5個入り 約80g)",
+      "size_g": 80
+    },
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 14,
+      "fat_g": 14,
+      "carbs_g": 7.6,
+      "sodium_mg": 630,
+      "salt_g": 1.6
+    },
+    "tags": [
+      "high_protein",
+      "high_fat"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "Lawson Karaage-kun original 5-piece box.",
+    "notes_jp": "ローソン からあげクン レギュラー(5個入)。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-bran-pan-2pc",
+    "name_en": "Bran Bread (2-piece, low-carb)",
+    "name_jp": "ブランパン 2個入",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "2 pieces",
+      "size_label_jp": "2個入",
+      "size_g": 70
+    },
+    "nutrition": {
+      "calories": 142,
+      "protein_g": 12.8,
+      "fat_g": 9,
+      "carbs_g": 4.4,
+      "fiber_g": 11,
+      "sodium_mg": 260,
+      "salt_g": 0.66
+    },
+    "tags": [
+      "low_carb",
+      "high_fiber",
+      "high_protein",
+      "keto_friendly"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "Lawson's flagship low-carb bread. 4.4g net carbs across 2 pieces — the go-to konbini choice for low-carb cuts.",
+    "notes_jp": "ローソンの低糖質パンの定番。2個で糖質4.4g、低糖質ダイエットの選択肢。",
+    "last_invalid": null,
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-protein-yogurt",
+    "name_en": "Protein Yogurt (Plain)",
+    "name_jp": "ロカボ プロテインヨーグルト",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "yogurt",
+    "serving": {
+      "size_label": "1 cup (180g)",
+      "size_label_jp": "1個(180g)",
+      "size_g": 180
+    },
+    "nutrition": {
+      "calories": 109,
+      "protein_g": 14.5,
+      "fat_g": 1.2,
+      "carbs_g": 9.6,
+      "sodium_mg": 76,
+      "salt_g": 0.19
+    },
+    "tags": [
+      "high_protein",
+      "low_fat"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "medium",
+    "notes_en": "Lawson protein yogurt. 14.5g protein at 109 kcal — competitive with Oikos but more carb.",
+    "notes_jp": "ローソン プロテインヨーグルト。1個あたりたんぱく質14.5g。",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-aged-red-salmon-temaki",
+    "name_en": "Onigiri Aged Red Salmon",
+    "name_jp": "手巻おにぎり 熟成紅鮭",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 174,
+      "protein_g": 4.6,
+      "fat_g": 1.7,
+      "carbs_g": 35.7,
+      "fiber_g": 1.5,
+      "sodium_mg": 488,
+      "salt_g": 1.24
+    },
+    "tags": [
+      "onigiri",
+      "salmon"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-grilled-aged-red-salmon",
+    "name_en": "Onigiri Grilled Aged Red Salmon",
+    "name_jp": "手巻おにぎり 炙り熟成紅鮭",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 174,
+      "protein_g": 4.8,
+      "fat_g": 1.9,
+      "carbs_g": 35.1,
+      "fiber_g": 1.2,
+      "sodium_mg": 468,
+      "salt_g": 1.19
+    },
+    "tags": [
+      "onigiri",
+      "salmon",
+      "grilled"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-premium-grilled-salmon-harami",
+    "name_en": "Premium Onigiri Grilled Salmon Harami",
+    "name_jp": "プレミアムおにぎり 焼さけハラミ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 204,
+      "protein_g": 6.6,
+      "fat_g": 3.3,
+      "carbs_g": 37.5,
+      "fiber_g": 0.9,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "onigiri",
+      "salmon",
+      "premium"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-large-salmon",
+    "name_en": "Large Onigiri Salmon",
+    "name_jp": "大きなおにぎり 鮭",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 large",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 283,
+      "protein_g": 7.7,
+      "fat_g": 2.5,
+      "carbs_g": 58.6,
+      "fiber_g": 2.2,
+      "sodium_mg": 787,
+      "salt_g": 2
+    },
+    "tags": [
+      "onigiri",
+      "salmon",
+      "large"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-sesame-salmon",
+    "name_en": "Sesame Salmon Onigiri",
+    "name_jp": "胡麻さけおにぎり",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 183,
+      "protein_g": 5.1,
+      "fat_g": 2.2,
+      "carbs_g": 36.4,
+      "fiber_g": 1.4,
+      "sodium_mg": 590,
+      "salt_g": 1.5
+    },
+    "tags": [
+      "onigiri",
+      "salmon",
+      "sesame"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-tunamayo-temaki",
+    "name_en": "Onigiri Seachicken Mayo",
+    "name_jp": "手巻おにぎり シーチキンマヨネーズ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 226,
+      "protein_g": 4.2,
+      "fat_g": 7.7,
+      "carbs_g": 35.7,
+      "fiber_g": 1.7,
+      "sodium_mg": 464,
+      "salt_g": 1.18
+    },
+    "tags": [
+      "onigiri",
+      "tuna",
+      "mayo"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-large-tunamayo",
+    "name_en": "Large Onigiri Seachicken Mayo",
+    "name_jp": "大きなおにぎり シーチキンマヨネーズ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 large",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 366,
+      "protein_g": 6.8,
+      "fat_g": 11.2,
+      "carbs_g": 60.5,
+      "fiber_g": 2.2,
+      "sodium_mg": 838,
+      "salt_g": 2.13
+    },
+    "tags": [
+      "onigiri",
+      "tuna",
+      "mayo",
+      "large"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-aged-kishu-ume",
+    "name_en": "Onigiri Aged Kishu Nanko Plum",
+    "name_jp": "手巻おにぎり 熟成紀州南高梅",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 169,
+      "protein_g": 3,
+      "fat_g": 1,
+      "carbs_g": 37.5,
+      "fiber_g": 0.8,
+      "sodium_mg": 637,
+      "salt_g": 1.62
+    },
+    "tags": [
+      "onigiri",
+      "umeboshi",
+      "plum"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-ume-shiso-mochimugi",
+    "name_en": "High-fiber Ume Shiso Onigiri",
+    "name_jp": "たっぷり食物繊維が摂れる 梅しそごはんおにぎり",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 170,
+      "protein_g": 4.2,
+      "fat_g": 2,
+      "carbs_g": 38,
+      "fiber_g": 8.6,
+      "sodium_mg": 980,
+      "salt_g": 2.49
+    },
+    "tags": [
+      "onigiri",
+      "umeboshi",
+      "shiso",
+      "high_fiber"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-onigiri-premium-aged-tarako",
+    "name_en": "Premium Onigiri Aged Raw Cod Roe",
+    "name_jp": "プレミアムおにぎり 熟成生たらこ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 197,
+      "protein_g": 5.7,
+      "fat_g": 1.2,
+      "carbs_g": 41.3,
+      "fiber_g": 1,
+      "sodium_mg": 448,
+      "salt_g": 1.14
+    },
+    "tags": [
+      "onigiri",
+      "tarako",
+      "premium"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-yaki-onigiri-kongari",
+    "name_en": "Kongari Yaki Onigiri",
+    "name_jp": "こんがり焼おにぎり",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "onigiri",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個",
+      "size_g": 105
+    },
+    "nutrition": {
+      "calories": 178,
+      "protein_g": 3.9,
+      "fat_g": 0.8,
+      "carbs_g": 39,
+      "fiber_g": 0.4,
+      "sodium_mg": 511,
+      "salt_g": 1.3
+    },
+    "tags": [
+      "onigiri",
+      "yaki",
+      "grilled"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-karaage-kun-red",
+    "name_en": "Karaage Kun Red (Spicy)",
+    "name_jp": "からあげクン レッド",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 serving (5pc)",
+      "size_label_jp": "1食(5個入)"
+    },
+    "nutrition": {
+      "calories": 225,
+      "protein_g": 14.3,
+      "fat_g": 15.1,
+      "carbs_g": 8.1,
+      "fiber_g": 0.5,
+      "sodium_mg": 669,
+      "salt_g": 1.7
+    },
+    "tags": [
+      "karaage",
+      "fried",
+      "spicy"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-karaage-kun-hokkaido-cheese",
+    "name_en": "Karaage Kun Hokkaido Cheese",
+    "name_jp": "からあげクン 北海道チーズ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 serving (5pc)",
+      "size_label_jp": "1食(5個入)"
+    },
+    "nutrition": {
+      "calories": 249,
+      "protein_g": 14.6,
+      "fat_g": 17.5,
+      "carbs_g": 8.4,
+      "fiber_g": 0.5,
+      "sodium_mg": 669,
+      "salt_g": 1.7
+    },
+    "tags": [
+      "karaage",
+      "fried",
+      "cheese"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-salad-chicken-herb",
+    "name_en": "Salad Chicken Herb",
+    "name_jp": "サラダチキン ハーブ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋",
+      "size_g": 110
+    },
+    "nutrition": {
+      "calories": 119,
+      "protein_g": 23.1,
+      "fat_g": 1.8,
+      "carbs_g": 2.7,
+      "fiber_g": 0.4,
+      "sodium_mg": 669,
+      "salt_g": 1.7
+    },
+    "tags": [
+      "salad-chicken",
+      "high_protein",
+      "low_carb",
+      "herb"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-bite-salad-chicken-herb",
+    "name_en": "Bite-sized Salad Chicken Herb",
+    "name_jp": "ひとくちサラダチキン ハーブ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "salad-chicken",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋",
+      "size_g": 85
+    },
+    "nutrition": {
+      "calories": 134,
+      "protein_g": 15.8,
+      "fat_g": 7.1,
+      "carbs_g": 2.1,
+      "fiber_g": 0.6,
+      "sodium_mg": 629,
+      "salt_g": 1.6
+    },
+    "tags": [
+      "salad-chicken",
+      "high_protein",
+      "herb"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-bento-karaage",
+    "name_en": "Chicken Karaage Bento",
+    "name_jp": "鶏のから揚げ弁当",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 box",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 732,
+      "protein_g": 24.4,
+      "fat_g": 31.9,
+      "carbs_g": 89.2,
+      "fiber_g": 4.8,
+      "sodium_mg": 1023,
+      "salt_g": 2.6
+    },
+    "tags": [
+      "bento",
+      "karaage",
+      "chicken"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-mapo-tofu-sichuan",
+    "name_en": "Sichuan Mapo Tofu",
+    "name_jp": "重慶飯店監修 四川風麻婆豆腐",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋",
+      "size_g": 200
+    },
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 12.8,
+      "fat_g": 10.6,
+      "carbs_g": 16,
+      "fiber_g": 2.2,
+      "sodium_mg": 1456,
+      "salt_g": 3.7
+    },
+    "tags": [
+      "mapo_tofu",
+      "chinese",
+      "spicy"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-mapo-fried-rice",
+    "name_en": "Spicy Mapo Fried Rice",
+    "name_jp": "旨辛！麻婆チャーハン",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "rice",
+    "serving": {
+      "size_label": "1 serving",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 585,
+      "protein_g": 19.3,
+      "fat_g": 19.7,
+      "carbs_g": 84.4,
+      "fiber_g": 3.6,
+      "sodium_mg": 2345,
+      "salt_g": 5.96
+    },
+    "tags": [
+      "fried_rice",
+      "mapo",
+      "spicy"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-sandwich-ham-cheese-egg",
+    "name_en": "Ham Cheese Egg Sandwich",
+    "name_jp": "ハムチーズたまごサンド",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 253,
+      "protein_g": 12,
+      "fat_g": 12.2,
+      "carbs_g": 24.3,
+      "fiber_g": 1.2,
+      "sodium_mg": 795,
+      "salt_g": 2.02
+    },
+    "tags": [
+      "sandwich",
+      "ham",
+      "cheese",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-sandwich-ham-egg-box",
+    "name_en": "Ham Egg Sandwich Box",
+    "name_jp": "ハムたまごBOX",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 251,
+      "protein_g": 10.7,
+      "fat_g": 11.1,
+      "carbs_g": 27.7,
+      "fiber_g": 1.4,
+      "sodium_mg": 743,
+      "salt_g": 1.89
+    },
+    "tags": [
+      "sandwich",
+      "ham",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-pasta-fresh-carbonara",
+    "name_en": "Fresh Pasta Carbonara",
+    "name_jp": "ソースたっぷり生パスタ カルボナーラ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 serving",
+      "size_label_jp": "1食"
+    },
+    "nutrition": {
+      "calories": 607,
+      "protein_g": 29,
+      "fat_g": 18.1,
+      "carbs_g": 85.8,
+      "fiber_g": 7.7,
+      "sodium_mg": 1763,
+      "salt_g": 4.48
+    },
+    "tags": [
+      "pasta",
+      "carbonara"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-pasta-bolognese-cheese-short",
+    "name_en": "Cheese Short Pasta Bolognese",
+    "name_jp": "とろ〜りチーズとショートパスタのボロネーゼ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "noodle",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1食",
+      "size_g": 220
+    },
+    "nutrition": {
+      "calories": 246,
+      "protein_g": 10.8,
+      "fat_g": 9,
+      "carbs_g": 29.3,
+      "fiber_g": 2.9,
+      "sodium_mg": 747,
+      "salt_g": 1.9
+    },
+    "tags": [
+      "pasta",
+      "bolognese",
+      "cheese"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-nl-bran-pan-protein",
+    "name_en": "NL Protein Bran Pan",
+    "name_jp": "NL たんぱく質が摂れるブランパン 2個入",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "bread",
+    "serving": {
+      "size_label": "1 piece",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 66,
+      "protein_g": 6.1,
+      "fat_g": 2.8,
+      "carbs_g": 6.1,
+      "fiber_g": 4.1,
+      "sodium_mg": 79,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "bread",
+      "low_carb",
+      "high_protein",
+      "bran"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-yogurt-drink-aloe",
+    "name_en": "Drinkable Yogurt Aloe",
+    "name_jp": "のむヨーグルト アロエ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "yogurt",
+    "serving": {
+      "size_label": "1 bottle",
+      "size_label_jp": "1本",
+      "size_g": 190
+    },
+    "nutrition": {
+      "calories": 128,
+      "protein_g": 5.6,
+      "fat_g": 0.2,
+      "carbs_g": 26.2,
+      "fiber_g": 0.4,
+      "sodium_mg": 79,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "yogurt",
+      "drink",
+      "aloe"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-yogurt-drink-plain",
+    "name_en": "Drinkable Yogurt Plain",
+    "name_jp": "のむヨーグルト プレーン",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "yogurt",
+    "serving": {
+      "size_label": "1 bottle",
+      "size_label_jp": "1本",
+      "size_g": 270
+    },
+    "nutrition": {
+      "calories": 204,
+      "protein_g": 8.9,
+      "fat_g": 4.9,
+      "carbs_g": 31.2,
+      "fiber_g": 0.5,
+      "sodium_mg": 79,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "yogurt",
+      "drink"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-konnyaku-chips-norishio",
+    "name_en": "Konnyaku Chips Nori Salt",
+    "name_jp": "こんにゃくチップス のりしお味",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋",
+      "size_g": 15
+    },
+    "nutrition": {
+      "calories": 58,
+      "protein_g": 0.1,
+      "fat_g": 1.7,
+      "carbs_g": 12.2,
+      "fiber_g": 3.2,
+      "sodium_mg": 79,
+      "salt_g": 0.2
+    },
+    "tags": [
+      "snack",
+      "chips",
+      "low_carb"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-almond-chocolate-inulin",
+    "name_en": "Almond Chocolate (with Inulin)",
+    "name_jp": "アーモンドチョコレート(イヌリン使用)",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "snack",
+    "serving": {
+      "size_label": "1 bag",
+      "size_label_jp": "1袋",
+      "size_g": 40
+    },
+    "nutrition": {
+      "calories": 228,
+      "protein_g": 5.5,
+      "fat_g": 18.4,
+      "carbs_g": 14.8,
+      "fiber_g": 9.5,
+      "sodium_mg": 12,
+      "salt_g": 0.03
+    },
+    "tags": [
+      "snack",
+      "chocolate",
+      "almond",
+      "high_fiber"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-green-smoothie",
+    "name_en": "Green Smoothie",
+    "name_jp": "グリーンスムージー",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 bottle",
+      "size_label_jp": "1本",
+      "size_g": 200
+    },
+    "nutrition": {
+      "calories": 79,
+      "protein_g": 0.8,
+      "fat_g": 0,
+      "carbs_g": 19.6,
+      "fiber_g": 1.2,
+      "sodium_mg": 35,
+      "salt_g": 0.09
+    },
+    "tags": [
+      "drink",
+      "smoothie"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-green-smoothie-oneday",
+    "name_en": "Green Smoothie ONE DAY",
+    "name_jp": "グリーンスムージーONEDAY",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "drink",
+    "serving": {
+      "size_label": "1 bottle",
+      "size_label_jp": "1本",
+      "size_g": 200
+    },
+    "nutrition": {
+      "calories": 102,
+      "protein_g": 2,
+      "fat_g": 0,
+      "carbs_g": 24.6,
+      "fiber_g": 2,
+      "sodium_mg": 118,
+      "salt_g": 0.3
+    },
+    "tags": [
+      "drink",
+      "smoothie"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-boiled-eggs-2pc",
+    "name_en": "Seasoned Boiled Egg",
+    "name_jp": "煮たまご",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "boiled-egg",
+    "serving": {
+      "size_label": "1 egg",
+      "size_label_jp": "1個"
+    },
+    "nutrition": {
+      "calories": 78,
+      "protein_g": 6.5,
+      "fat_g": 5.5,
+      "carbs_g": 0.6,
+      "fiber_g": 0.2,
+      "sodium_mg": 275,
+      "salt_g": 0.7
+    },
+    "tags": [
+      "egg",
+      "boiled-egg",
+      "high_protein"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  },
+  {
+    "id": "lawson-egg-salad",
+    "name_en": "Egg Salad",
+    "name_jp": "たまごサラダ",
+    "brand": "Lawson",
+    "category": "konbini",
+    "chain": "lawson",
+    "subcategory": "any",
+    "serving": {
+      "size_label": "1 pack",
+      "size_label_jp": "1袋",
+      "size_g": 80
+    },
+    "nutrition": {
+      "calories": 169,
+      "protein_g": 5.8,
+      "fat_g": 14.2,
+      "carbs_g": 4.6,
+      "fiber_g": 0.2,
+      "sodium_mg": 354,
+      "salt_g": 0.9
+    },
+    "tags": [
+      "salad",
+      "egg"
+    ],
+    "source": {
+      "url": "https://www.lawson.co.jp/recommend/",
+      "type": "official_label",
+      "verified_at": "2026-05-09",
+      "verified_by": "@mrslbt"
+    },
+    "confidence": "high",
+    "last_updated": "2026-05-09"
+  }
+]
