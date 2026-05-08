@@ -3,9 +3,17 @@
 [![npm version](https://img.shields.io/npm/v/tabedata-mcp.svg)](https://www.npmjs.com/package/tabedata-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Model Context Protocol server for Japanese food nutrition data. Bilingual (JP/EN) tools covering konbini items, restaurant chain meals, generic Japanese foods, and personalized macro targets. Built for AI assistants and Tokyo expats.
+Model Context Protocol server for Japanese food nutrition data. Bilingual JP/EN lookups across konbini, restaurant chains, and grocery brands. Macros, allergens, sodium, and menu navigation for any AI assistant operating in Japan.
 
-460 curated items across 21 chains, all with cited official sources.
+460 cited items across 21 chains. 42 generic foods from Japan's MEXT food composition database. Size variants (並 / 大盛 / 特盛) on every restaurant chain that publishes them.
+
+## Who this is for
+
+- Tracking macros, sodium, or carbs on a Japanese diet
+- Looking up allergens on a menu you can't read
+- Travelers using an AI assistant to navigate Japanese restaurants and konbini
+- Comparing options across chains ("which chain has the leanest chicken?")
+- Building nutrition or meal apps that need real Japanese product data
 
 ## Install
 
@@ -57,8 +65,8 @@ Add to `~/.cursor/mcp.json` with the same shape as Claude Desktop.
 | Tool | Description |
 |---|---|
 | `search_food` | Bilingual fuzzy search across the curated DB. Accepts JP or EN queries (e.g. `salad chicken` or `サラダチキン`). |
-| `konbini_item` | Chain-scoped lookup for 7-Eleven, Lawson, FamilyMart, Ministop. |
-| `restaurant_meal` | Chain meal lookup with size variants (並 / 大盛 / 特盛). |
+| `konbini_item` | Chain-scoped lookup for 7-Eleven, Lawson, FamilyMart, Ministop. Includes allergens and ingredient lists where available. |
+| `restaurant_meal` | Chain meal lookup with size variants (並 / 大盛 / 特盛) and allergen tags. |
 | `analyze_meal` | Natural-language meal analyzer. Recognizes counts, weights (`200g rice`), fractions (`half avocado`), and restaurant size names (`Nakau large oyakodon`). Returns macro totals plus optional comparison to personalized targets. |
 | `find_alternatives` | Swap an item for a better one along a chosen axis (higher protein, lower calorie, lower sodium). Returns each alternative with its improvement and tradeoff. |
 | `daily_targets` | Mifflin-St Jeor BMR x activity multiplier x goal-driven deficit/surplus. Diabetes risk shifts the macro split. Hypertension surfaces a sodium guidance note. |
@@ -79,22 +87,28 @@ Japanese chains: Nakau, Sukiya, Yoshinoya, Matsuya, CoCo Ichibanya, Marugame Sei
 Western and global chains: McDonald's Japan, KFC Japan, Subway Japan, Lotteria, Freshness Burger, Doutor.
 
 ### Generic and brand items (66 items)
-- 42 generic Japanese foods sourced from Japan MEXT *Standard Tables of Food Composition*.
+- 42 generic Japanese foods from Japan MEXT *Standard Tables of Food Composition* (文部科学省 食品成分表), the canonical reference used in Japanese nutrition research and clinical practice.
 - 24 brand products: Oikos, SAVAS Milk Protein line, Meiji R-1 / Bulgaria / LG21 / TANPACT, Glico, Calbee, Ito En, Asahi, Kirin, Suntory, Fuji Pan, Snow Brand, Morinaga inZeri.
 
 ## Example queries
 
 ```
-What are the macros of a Nakau large oyakodon?
-なか卯の親子丼大盛のカロリーと糖質を教えて
+How many calories are in a Big Mac in Japan?
+日本のビッグマックは何キロカロリー？
+
+I just had a Sukiya gyudon. Track it.
+今日すき家の牛丼食べた。記録して
+
+Compare a 7-Eleven salmon onigiri to a Lawson one
+セブンとローソンの鮭おにぎり、どっちがいい？
 
 Analyze my lunch: 1 oikos plain, 2 boiled eggs, 200g rice
-私のランチを分析して: オイコスプレーン1個、ゆで卵2個、白米200g
+ランチ記録して: オイコス1個、ゆで卵2個、白米200g
 
-Find a higher-protein swap for a tuna mayo onigiri at 7-Eleven
-セブンイレブンのツナマヨおにぎりよりたんぱく質が高い代替品を探して
+What sizes does Sukiya's gyudon come in?
+すき家の牛丼のサイズ展開は？
 
-Calculate my daily targets: 80kg, 175cm, 30, male, moderate activity, cut moderate
+Calculate daily targets: 80kg, 175cm, 30, male, moderate, cutting
 ```
 
 ## Data integrity
